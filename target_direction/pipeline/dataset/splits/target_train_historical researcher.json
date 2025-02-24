@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Create a timeline comparing colonial migrations in Central Africa and Southeast Asia.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe the social impact of the Gutenberg printing press during Renaissance Europe.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare El Santo's cultural influence with Blue Demon's impact on Mexican society.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Explain the significance of Munich's Frauenkirche during the Bavarian Renaissance period.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Explain why niche historical events often get overlooked in mainstream history books.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a detailed timeline of Camden's role during the American Civil War.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to accurately research Victorian household inventories and domestic servant records?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Explain how women contributed to the economic growth of 17th-century New England.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze the societal factors that triggered the Rwandan genocide in 1994.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze the defensive fortification systems used at Fort McHenry during the 1800s.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Explain how social values influenced children's literature during Victorian England's industrial revolution.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a redemptive narrative about WWI soldiers who became peace activists post-war.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "What is the relationship between population density and the spread of medieval plagues?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design an infographic showing population shifts during the 1918 Spanish Flu pandemic.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a detailed layout of a typical 1940s coastal artillery fortification.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare social conditions in Elizabethan England versus ancient Rome in Shakespeare's plays.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare daily life in Victorian London versus Paris during the 1850s.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe Art Deco's influence on New York City's skyscraper architecture during 1920-1930.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe the social hierarchies of pre-Columbian Mayan cities during their peak period.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to analyze interfaith marriage records from medieval Mediterranean trading port cities?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze how the introduction of paper currency affected medieval European trade systems.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Explain how Victorian social classes influenced marriage customs in 1850s London.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "solve: What were the exact weapons and armor used by 16th-century Ottoman janissaries?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze how World War II influenced children's literature during the 1940s.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Explain how Victorian-era clothing details reflected social class and economic status.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Explain how local wine festivals influenced medieval French village economies and traditions.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design an infographic showing how the Black Death reshaped medieval European demographics.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe the naval tactics used during the First Sino-Japanese War off Shandong's coast",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "What is the historical significance of the Bretton Woods monetary system?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend reliable primary sources documenting daily life in Victorian-era British factories.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to trace the evolution of moral lessons in Victorian children's fairy tales?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend reliable sources for documenting pre-Columbian trade routes across Mesoamerica without overlapping research.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare the social impacts of radio and television during the 20th century.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to analyze historical quarantine policies' effectiveness during the 1918 Spanish Flu?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe the socioeconomic impacts of the 1918 Spanish Flu on urban populations",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "solve the major causes behind Japan's defeat in the Battle of Weihaiwei (1895)",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create authentic Victorian-era clothing designs showing proper class distinctions and fabric details.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe how the Black Death's population decline influenced medieval European society.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend iconic Art Deco buildings that influenced 1920s urban planning in Chicago.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "solve why the Zimmermann Telegram catalyzed American entry into World War One.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare Camden's economic impact during the Civil War versus the Revolutionary War.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design a digital archival system to catalog and preserve historical documents efficiently.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design an infographic comparing quarantine policies from three major historical pandemics.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a timeline comparing quarantine policies during major pandemics throughout history.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe medieval battle formations used by English longbowmen during the Hundred Years' War.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe the significance of Camden's cotton trade during the Antebellum period.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze how wine trading influenced local folklore in 18th-century Bordeaux villages.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design a visual timeline showcasing the evolution of global currency trading systems.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to authenticate the age of World War II coastal defense bunker materials?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare Victorian and Edwardian era clothing details for historical costume design accuracy.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to research women's domestic trade networks in 1700s New England colonies?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Solve the living conditions disparity between social classes in 1850s London.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to accurately recreate medieval castle architecture in Skyrim game modifications?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to analyze social class distinctions in Shakespearean England through theatrical representations?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare living conditions of colonial women in New England versus Southern colonies.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe the social influences reflected in Victorian-era fairy tales for children.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to accurately recreate medieval weapon textures for historical game modifications?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe women's fashion accessories commonly worn by upper-class Europeans in 1850s Paris.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design a historically accurate 14th-century European castle layout for a game mod.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "solve how religious practices merged during the Tang Dynasty's cultural exchange period",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze how Belgian colonization influenced traditional governance systems across Central Africa.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend lesser-known books about medieval trade routes in Southeast Asia before 1400.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to track the evolution of luchador mask designs from 1930s-1960s Mexico?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend books about naval warfare during the First Sino-Japanese War (1894-1895).",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "What is the significance of the Huai Hai Campaign in Chinese military history?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design a period-accurate map layout depicting 18th-century colonial trade routes in America.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a timeline comparing quarantine policies during major pandemics since 1900.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Solve what conservation techniques revealed this painting's original 16th-century color palette?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design a Victorian-era manuscript page layout with authentic period typography and ornaments",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a detailed diary entry of a female shopkeeper in 1760s Boston.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "solve: How did trade routes influence the spread of Bantu languages across Africa?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe how quarantine policies during the 1918 Spanish Flu affected urban communities",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend reliable primary sources for researching daily life in Victorian London workhouses.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend authentic clothing and accessories worn by French nobility during 1789-1799.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze how women's domestic labor influenced economic development in 1700s New England.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a timeline linking French wine festivals to local economic growth since 1800",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare naval warfare strategies between Ming Dynasty China and Joseon Korea.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare redemption stories of Civil War deserters who later became community leaders.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "What is the daily dress protocol for Victorian-era female domestic servants?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare government quarantine policies during 1918 Spanish Flu versus 2020 COVID-19 pandemic.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Explain how early comedy archives preserved vaudeville recordings before digital storage existed.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze the economic impact of the Industrial Revolution on Victorian England's society",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze women's involvement in colonial American trade networks between 1650-1750.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "solve redemption stories of disgraced Civil War soldiers who later helped rebuild communities",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe daily attire worn by middle-class merchants in 1850s Victorian London",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze the historical evolution of design principles from 1950 to present day.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design an illustrated timeline showing how children's book covers evolved since 1900.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design authentic period-accurate stage props for a Shakespearean theatre production set in 1599.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend scholarly sources documenting living conditions in Victorian London's East End slums.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe how El Santo's film career influenced Mexico's popular culture during 1950-1970.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Explain how lesser-known women spies influenced the outcome of World War II.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze women's contributions to textile production in 1700s Massachusetts colonial settlements.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Solve the accuracy issues in depicting 18th century French aristocratic fashion accessories",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to analyze demographic shifts during major plague outbreaks in medieval Europe?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze Victorian social customs depicted in Oscar Wilde's The Importance of Being Earnest",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "What is the significance of Camden's cotton trade during the antebellum period?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend sources documenting El Santo's influence on Mexican cinema and lucha libre.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "solve why Abraham Lincoln's leadership style was effective during the Civil War",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a timeline of Little Women's cultural impact from 1868-1900.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe how wine-making traditions shaped village economies in 18th century Burgundy.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend lesser-known stories of reformed criminals who helped society during World War II.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze women's participation in colonial American trade networks between 1650-1700.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "solve why George Washington's military strategies succeeded during the American Revolutionary War",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend authentic historical sources documenting early fashion designer Christian Dior's creative process.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to verify historical accuracy of medieval battle scenes in movie scripts?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to trace the evolution of moral lessons in Victorian children's literature?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Recommend historical sites in Munich related to the Bavarian monarchy before 1918.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze primary sources documenting civilian experiences during the American Civil War movement.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design a vintage-style book cover for an obscure 18th-century maritime exploration journal.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "solve: What architectural changes occurred in US coastal fortifications between 1860-1900?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare the major causes of the Great Depression to the 2008 Financial Crisis.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a timeline showing ethnic cleansing events in the Balkans during 1991-1995.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a detailed timeline of Christian Dior's design evolution from 1947-1957.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Compare women's property rights in colonial New England versus colonial Virginia.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a detailed timeline of Munich's transformation during the Bavarian Renaissance period.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze the evolution of barter systems into early coin-based monetary exchanges.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "What is the economic impact of wine folklore on medieval French village markets?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Create a detailed timeline of social customs during Shakespeare's Merchant of Venice setting.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "How to verify the authenticity of primary sources in historical research documents?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "What is the significance of the Factory Acts in Victorian England's industrial reform?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe the main catalysts that led to the Rwandan genocide in 1994.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Design an authentic medieval town layout based on 13th-century English archaeological records.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze colonial Belgium's influence on Central African trade routes and tribal migrations.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Describe the typical interior furnishings of a middle-class Victorian London home.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze the sociopolitical climate of Elizabethan England during Shakespeare's Julius Caesar performances.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "What is the historical significance of traditional seams in fashion design evolution?",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Analyze the evolution of furniture design styles from 1920-1950 with documented examples.",
+        "category": "historical researcher"
+    },
+    {
+        "instruction": "Explain how medieval trade routes facilitated religious and cultural exchange between civilizations.",
+        "category": "historical researcher"
+    }
+]

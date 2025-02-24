@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Recommend Python libraries for analyzing agricultural data from Nigerian farming communities.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a LSTM neural network model to predict Bitcoin price movements hourly.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design a visualization dashboard for comparing multiple DNA sequence alignment patterns.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe how peak-hour traffic patterns impact business district productivity levels.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe privacy-preserving techniques used in federated learning for sensitive healthcare data",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare map and reduce operations in functional programming for data preprocessing pipelines.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to implement transfer learning using PyTorch for Chinese text classification models?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to predict customer churn using historical purchase data and satisfaction scores?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Analyze route optimization algorithms' performance compared to traditional GPS navigation systems.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design an anomaly detection system to identify suspicious patterns in network traffic.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a predictive model for analyzing player behavior patterns in multiplayer games.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a Python function to automate data cleaning and handle missing values efficiently.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design an interactive dashboard to visualize machine learning model performance metrics.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend visualization techniques for representing high-dimensional genomic sequencing data in Python",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is feature importance and its role in machine learning model selection?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a data validation checklist to quickly spot statistical reporting errors.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare voter turnout patterns between Eastern and Western EU member states since 2010.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to translate complex statistical models into engaging broadcast-ready sports commentary?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare data encryption methods for protecting user information: AES versus RSA encryption.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design an interactive dashboard to visualize senior citizens' technology adoption patterns over time.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare privacy practices of Big Tech companies versus decentralized blockchain platforms.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "solve why engagement rates dropped 23% across our platform's live streaming sessions",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Analyze user engagement patterns in VR gaming applications across different age demographics.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a dataset of labeled text samples for training hate speech classifiers.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe income disparities between urban and rural households across different age groups.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Explain how Bayesian probability applies to predictions in Game of Thrones deaths.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Solve the statistical correlation between citation frequency and research paper publication dates",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to apply Bayesian statistics in predictive modeling like my grandmother taught me?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is the silhouette coefficient and when should it be used in text clustering?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "solve the optimal sampling frequency for collecting real-time traffic data from smartphones",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend machine learning models best suited for analyzing large-scale genomic sequence data",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Analyze sentiment patterns across 10,000 customer reviews using natural language processing techniques",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to analyze market sentiment data using Python for stock trading decisions?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend robust algorithms for detecting anomalies in large-scale time series data.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to optimize hyperparameters in neural networks for better model performance?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend data visualization techniques to effectively communicate customer churn patterns to stakeholders.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend beginner-friendly Python libraries for data visualization and statistical analysis tasks",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a workflow diagram showing AI-driven analysis of public service efficiency metrics.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe the process of deploying custom machine learning models on Amazon SageMaker",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a visualization showing data science job migration patterns across cultural regions.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Analyze how natural cycles in data patterns mirror the Taoist concept of balance.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe the kinetic behavior of organic molecules in cold molecular clouds",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design a distributed storage architecture for real-time analysis of petabyte-scale datasets.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "solve the anomaly detection pattern in this Voyager 2 magnetometer sensor dataset",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to normalize traffic flow data for cross-city economic impact comparison?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Solve how machine learning can predict court case outcomes using historical data analysis.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design a dashboard visualizing real-time A/B testing metrics for data-driven decision making.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a step-by-step guide for implementing random forests using Apache Spark MLlib.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design a data visualization dashboard for real-time traffic flow across city intersections.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is the optimal approach for reducing bias in deep learning models?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe key metrics used to measure cloud infrastructure investment effectiveness across enterprises",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe best practices for sharing reproducible R code in clinical data analysis.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend targeting strategies for reaching undecided voters in swing suburban districts.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a shell script to automate data preprocessing and model training pipelines.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create an algorithm to detect protein expression patterns in longitudinal brain scan data.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare trade tariff impacts on deforestation rates between Brazil and Indonesia since 2010.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a pipeline for deploying conditional GANs with automated quality control metrics.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend industries showing highest automation adoption rates for strategic investment opportunities.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Analyze Julia's performance versus Python for deep learning neural network implementations.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is the correlation between household income and social media political engagement?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to predict player performance using machine learning and historical game statistics?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to predict seasonal rodent population fluctuations using time series analysis?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Solve data latency issues in distributed search queries across multiple cloud servers.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare BERT and GPT language models in terms of their architecture and applications.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design a reproducible A/B testing framework to validate your predictive model's accuracy.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to preprocess radio signal data for detecting potential extraterrestrial technosignatures?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare BERT and GPT language models in terms of architecture and use cases.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to deploy TensorFlow models as microservices using Docker and Kubernetes?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Explain how encryption methods protect sensitive data during ETL pipeline processing.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Explain how antibiotic resistance patterns correlate with regional prescription usage rates.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare social media engagement metrics between long-form content and short-form content platforms.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is the correlation between shooting form consistency and basketball free-throw percentages?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend efficient data visualization tools for analyzing large library circulation datasets.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "solve how to implement employee churn prediction using scikit-learn in Python",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to visualize time-series data comparing library visitors and annual funding levels?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe how feature selection affects machine learning model performance in sensor data analysis",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend efficient data structures for streaming anomaly detection in cybersecurity systems",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Explain how clustering algorithms can identify functional brain regions in fMRI data",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is the correlation between FFA Cup attendance and weekday evening kickoff times?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe optimal data cleaning techniques for integrating multiple library catalog databases.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend methods to detect anomalies in IoT sensor data for security monitoring",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design a predictive model to identify early warning signs of hospital readmissions.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to process galvanic skin response data for real-time stress level detection?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Explain how Kepler's transit method detects exoplanets using light curve analysis.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is the correlation between urban density and local biodiversity loss patterns?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "solve best machine learning approach for detecting moving objects in drone footage",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to predict property value trends using machine learning and market data?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a sentiment analysis model for analyzing customer feedback across social media platforms.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is the advantage of Oracle's data encryption over open-source alternatives?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend data encryption methods to protect sensitive user information in our database.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create an algorithm to detect and classify different types of medieval handwriting styles.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare bias mitigation techniques in supervised learning versus self-supervised neural networks.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Solve computational inefficiencies in deep learning models for real-time image classification.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "solve how to reduce false positives in our machine learning classification model",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Explain why DBSCAN clustering performs better than k-means for non-spherical data distributions.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to implement cross-validation for time series forecasting in Python scikit-learn?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design a dashboard visualizing patterns in global cyber attack conspiracy theories worldwide.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is the correlation between word frequency and emotional impact in poetry?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe key environmental variables that influence machine learning models for crop prediction.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is the best iOS app for creating interactive statistical visualizations?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Create a dataset analyzing emotional arcs in bestselling novels using sentiment analysis algorithms.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is sentiment analysis and how does it impact social media marketing?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design a Django dashboard interface to visualize real-time machine learning model predictions.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend tools for analyzing IoT sensor data from smart thermostats and energy meters",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe how 5G latency improvements could transform real-time business analytics applications.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare Sentinel-2 and Landsat-8 satellites for monitoring agricultural crop health patterns.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe the differences between NumPy arrays and Pandas DataFrames in Python programming.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend GIS visualization tools for mapping crime pattern clusters in urban areas",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to analyze tempo patterns of top songs for seamless dance transitions?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to predict customer churn using purchase history and browsing behavior data?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe parallel processing techniques for optimizing large-scale data analysis workflows",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to integrate satellite imagery data with legal property boundary disputes using Python?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "solve the 3D visualization of chaotic attractors using interactive WebGL animations",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Explain how music tempo and beat statistics predict crowd engagement levels.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Solve why gradient descent converges faster in some neural network architectures theoretically.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Describe best practices for feature engineering when dealing with imbalanced datasets",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design a risk assessment dashboard to visualize real-time threat detection patterns.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare mortality rates between vaccinated and unvaccinated populations during flu season outbreaks.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to incorporate cognitive bias patterns into collaborative filtering algorithms for recommendations?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to reduce overfitting in decision trees using pruning techniques effectively?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design a real-time data visualization system for tracking refugee movements across borders.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Solve healthcare disparities using predictive analytics and demographic data in underserved communities.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend strategies to identify and eliminate bottlenecks in our manufacturing data pipeline.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Compare NumPy and Pandas libraries for handling large datasets in Python.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Design a personalized content feed interface that adapts based on user behavior patterns.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "What is the most effective metric for quantifying corporate environmental impact scores?",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "Recommend machine learning algorithms best suited for predicting market volatility using high-frequency data.",
+        "category": "data scientist"
+    },
+    {
+        "instruction": "How to implement A/B testing for a deployed machine learning model's performance?",
+        "category": "data scientist"
+    }
+]

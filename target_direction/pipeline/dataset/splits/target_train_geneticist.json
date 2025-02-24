@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Create a visual representation of my tribe's ancestral migration patterns using DNA data.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a diagram illustrating CRISPR gene editing in retinal cell development.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "How to design drug delivery systems that target specific genetic mutations?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Analyze potential ROI and market scalability of this gene therapy breakthrough technology.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "How to modify CRISPR vectors for enhanced heat-shock protein expression in crops?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "solve why certain genetic variants persist despite negative fitness effects in populations",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a rigorous genetics lab mentorship program that challenges students like my professor challenged me.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a visualization system to track gene expressions in disease-resistant grape varieties.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Compare mitochondrial DNA markers between ancient Celtic and Germanic population samples.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a visual diagram showing how musical talent genes pass through family generations.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "solve how to increase vaccine stability without compromising immunogenicity in mRNA vaccines",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend genetic testing methods to identify markers associated with explosive muscle performance.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Analyze genetic markers linked to drought resistance in Theobroma cacao cultivars.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a genetic map showing pesticide resistance mutations in honeybee populations.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Analyze recent breakthroughs in CRISPR-based gene therapy for inherited genetic disorders.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a genetic map showing pesticide-resistance gene variations in honeybee populations.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how DNA methylation patterns affect cold tolerance in high-altitude Himalayan plants.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a model showing how CRISPR affects collagen synthesis during wound healing.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how CRISPR-Cas9 can modify cacao genes to improve disease resistance.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Compare mitochondrial DNA inheritance patterns between mammals and flowering plants.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend machine learning algorithms best suited for analyzing whole-genome sequencing data.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "How to accurately describe CRISPR gene editing in science fiction writing?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "What is the role of genetic determinism in phenotypic expression during embryonic development?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Compare nutrient absorption efficiency between grass-fed and grain-fed beef cattle genotypes.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "What is the evidence for environmental factors overriding genetic predisposition to cancer?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend ethical guidelines for implementing CRISPR gene editing in human embryos",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a visualization mapping ancient grain domestication patterns across global climate zones.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "How to analyze gene expression patterns in PCOS patients using RNA sequencing?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design an infographic comparing genetic diversity patterns between wolf breeds and domesticated dogs.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how BRCA1 and BRCA2 mutations influence ovarian cancer development and progression.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Solve how chromatin remodeling complexes affect transcription factor binding in eukaryotic cells.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Compare CRISPR-Cas9 and zinc finger nucleases for precision in gene editing applications.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Analyze genetic variations in dopamine receptors affecting risk-taking behavior across populations.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Analyze how soil pH levels affect gene expression in drought-resistant wheat varieties.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Solve why certain Notre Dame bloodlines show unique genetic markers from medieval Ireland.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how mitochondrial DNA analysis reveals ancestral lineages in extinct hominid species",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "What is the role of ABC transporters in pesticide detoxification among honeybees?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how Cattanach's T(X;16)16H mouse translocation experiments revolutionized sex determination research.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Describe how genetic markers are used to track desired traits in plant breeding.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a step-by-step protocol for delivering viral vectors during minimally invasive surgery.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design an infographic showing how mycorrhizal fungi networks facilitate nutrient exchange between plants.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a precise step-by-step protocol for DNA extraction with contamination prevention measures.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how genetic mutations in bacteria lead to antibiotic resistance mechanisms.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend forensic DNA analysis techniques for identifying suspects in decades-old unsolved murders.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a mentorship program for biology students that emphasizes rigorous scientific standards.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how to translate complex genetic research findings into engaging public messages",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "What is the role of epigenetic modifications in heritable disease transmission?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "How to analyze DNA sequencing data to identify fertility-related genetic mutations?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a protocol for isolating DNA samples from patients with rare genetic disorders.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a press release announcing breakthrough findings in CRISPR gene therapy research.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend software tools for analyzing mitochondrial DNA sequences in extinct mammalian species.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a data visualization dashboard for tracking CRISPR-modified cacao plant phenotype expressions.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend key genetic analysis tools for studying rare inherited metabolic disorders.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a visual presentation showcasing genetic markers in crop evolution for research investors.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Compare gene expression analysis methods: RNA-seq versus microarray for detecting splice variants.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend genetic studies focusing on the heritability of musical talent and ability.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "solve how to extract bioactive compounds from endangered rainforest plants without harming species",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a portable tool for collecting and labeling plant tissue samples during fieldwork.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "solve how to translate BRCA1 gene mutation data into personalized breast cancer treatments",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how off-target effects impact CRISPR-Cas9 gene editing efficiency in eukaryotes.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Solve why mitochondrial DNA analysis sometimes conflicts with traditional genealogical paper records.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a step-by-step protocol for isolating preserved genetic material from prehistoric fossils.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Compare CRISPR and zinc finger nucleases for targeting specific genetic mutations.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Analyze genetic variations in dopamine receptors affecting risk-taking behavior across populations",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "What is the role of epigenetic modifications in regulating gene expression patterns?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend methodologies to validate CRISPR gene-editing results for peer-reviewed publication.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Compare vocal communication patterns between isolated and interconnected primate populations over time.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a DNA sample storage system optimized for temperature control and contamination prevention.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how CRISPR-Cas9 validates gene function in drug target identification studies.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Compare mitochondrial DNA analysis versus nuclear DNA for tracking ancient species evolution.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend genetic ancestry testing labs specializing in European monastic population DNA analysis.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "What is the relationship between genetic drift and cultural homogeneity in isolated populations?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design an infographic showing breed-specific genetic markers linked to canine nutritional requirements.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Describe the essential components needed for validating mental health assessment scales.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Describe the cellular mechanisms involved in mRNA vaccine-induced antibody production.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "How to ethically source human tissue samples for bio-art installations?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend genes to target for improving growth rates in farmed Atlantic salmon.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a flowchart showing target validation steps for CRISPR-based gene knockout experiments.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Analyze how genetic variations in BDNF influence synaptic plasticity and memory formation.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "What is Hardy-Weinberg equilibrium's application in studying real population bottleneck events?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Compare genetic diversity patterns between Przewalski's horses and Asian wild horses.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend biomarkers to analyze for predicting skin aging and regeneration potential",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a genetic profile map of floral scent compounds attracting honeybees.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "solve the inheritance pattern of this teen's unexplained muscle weakness and tremors.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a visualization system to track gene expression changes across soil nutrient gradients.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "How to isolate DNA sequences associated with impulsive behavioral traits in mammals?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a visual pattern using DNA base pairs as a repeating motif.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how gene expression in medicinal plants affects their therapeutic compound production.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a clear visual representation of CRISPR gene-editing outcomes for our journal's cover.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "What is the genetic basis for lactose tolerance variation among different dogs?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "solve the genetic markers that could explain dragon-like traits in Komodo dragons",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how DNA mutations relate to Lucy in the Sky with Diamonds.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Describe the workflow for analyzing DNA sequence data using free bioinformatics tools",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a visual diagram showing DNA mutation patterns in primate genetic sequences.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain why machine learning models outperform conventional drug screening in target identification.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a model showing how genetic mutations drive species adaptation without environmental pressures.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "solve how genomic prediction models can optimize trait selection in hybrid crops",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "What is the role of machine learning algorithms in predicting protein-DNA binding interactions?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Describe the morphological traits used to classify plants within the Solanaceae family.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "How to extract and preserve DNA samples from endangered rainforest medicinal plants",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "What is the role of CRISPR-Cas9 in modern genetic engineering techniques?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend papers exploring anthocyanin mutations in purple corn varieties since 2020.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how genetic mutations contribute to evolutionary adaptations in isolated populations.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a classroom poster showing how tough feedback leads to scientific breakthroughs.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how mycorrhizal fungi regulate nutrient exchange with host plant root systems.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Describe how cosmic radiation affects DNA double-helix stability in microgravity environments.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Describe the genetic inheritance patterns of hip dysplasia in German Shepherd dogs.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "How to balance genetic research advancement with ethical concerns in human embryo studies?",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Solve why certain genetic mutations consistently lead to specific cerebral palsy phenotypes.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how genetic research investments correlate with long-term market returns and risks.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Analyze how PAX6 gene mutations affect eye development during embryonic stages.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Compare CRISPR gene editing with traditional genetic modification methods in medical research.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Analyze mutations in MTHFR gene variants affecting folate metabolism in cardiovascular patients.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Describe how protein folding mechanisms could enhance targeted drug delivery systems.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "solve why certain dog breeds are more prone to gluten sensitivities than others",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how genetic variations influence skin barrier function and natural moisturizing factors.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Analyze gene expression patterns in tumor samples compared to adjacent healthy tissue.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend effective ways to explain complex genetic research findings to mainstream media audiences.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Analyze genetic bottleneck patterns in great white shark populations across Pacific migration routes.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design a visualization tool to track genetic mutations across neural cell lineages.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "solve how DNA replication errors contribute to genetic mutations during cellular division.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how epigenetic modifications influence gene expression during cellular differentiation.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Design an intuitive visualization interface to map gene expression patterns across patient cohorts.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Recommend genes to analyze when studying vitamin D absorption in human cells.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Create a protocol for CRISPR-based gene editing in pluripotent stem cells.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Compare ethical gene splicing protocols with the unauthorized experiments conducted in Lab B-7.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "Explain how DNA barcoding techniques help identify and classify plant species taxonomically.",
+        "category": "geneticist"
+    },
+    {
+        "instruction": "What is the role of 16S rRNA sequencing in gut microbiome analysis?",
+        "category": "geneticist"
+    }
+]

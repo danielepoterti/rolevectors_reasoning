@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Analyze military spending patterns across NATO countries between 2015-2022 using regression analysis.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Explain the difference between wav and mp3 audio file compression methods.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare transaction patterns between flagged accounts and known money laundering cases.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve what metrics best indicate customer satisfaction in a SaaS business model",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a predictive model for seasonal staffing needs using historical attendance data.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design a dashboard layout that visualizes quarterly sales data across multiple regions.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design a dashboard to visualize user interaction patterns across different interface layouts.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "What is the best way to clean outliers from a dataset?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "What is the statistical significance threshold used in parapsychology research studies?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a dashboard tracking price-fixing patterns across competitors in the pharmaceutical industry.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design an interactive dashboard visualizing adult literacy program outcomes across different demographics",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "What is the relationship between bottleneck analysis and flow efficiency in factory layouts?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a sentiment analysis dashboard tracking social media reactions during product recalls",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "What is the difference between correlation and causation in pattern analysis?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "What is sentiment analysis and its role in monitoring social media trends?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Analyze social media trends indicating public sentiment towards recent foreign policy decisions.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe how cross-cultural data interpretation varies between Eastern and Western markets.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a dashboard tracking suspicious patterns in political PAC donation cycles since 2016.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a cost-benefit analysis model for comparing diabetes medications across patient demographics.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design a dashboard to visualize seasonal demand patterns and predict inventory needs.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "What is multicollinearity and its impact on pharmaceutical sales forecasting models?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to analyze offline map usage patterns to identify navigation pain points?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to reduce noise in satellite imagery using convolutional neural networks?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe visible patterns of ice sheet fragmentation in Arctic satellite imagery.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe the patterns in energy consumption during peak hours across residential sectors",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Explain how GPS tracking data reveals seasonal patterns in whale migration routes.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve how to implement GDPR-compliant data collection methods in mobile apps responsibly",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to analyze voter age distribution patterns across different geographic regions?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to build a time series model for predicting monthly retail sales?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare survival rates between chemotherapy and immunotherapy treatments for stage 3 melanoma.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Recommend distributed caching strategies for real-time financial data processing in Ignite",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve: What percentage reduction in lung cancer occurs after smoking cessation programs?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare consumer retention rates between brands using nostalgia marketing versus modern approaches.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to perform regression analysis comparing prison program participation and recidivism rates?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe how real-time solar panel data could enhance energy consumption visualizations",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Recommend secure ways to report data vulnerabilities without compromising my job position.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a data visualization showing how tech conference attendance impacts career networking opportunities.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare employee turnover rates between departments before and after implementing flexible scheduling.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare loan repayment rates before and after implementing our new microfinance policy.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a demographic analysis dashboard tracking streaming performance across different age groups.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Recommend beginner-friendly machine learning algorithms for predicting insurance customer churn rates.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve why smartphone adoption rates differ significantly between urban and rural populations",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a data visualization dashboard showing search patterns across our archived documents.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Analyze patterns in ceramic artifact distribution across different excavation layers from Site-B123.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Recommend statistical methods for analyzing ESP test results across different demographics.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Recommend key metrics to track content performance across different social media platforms",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare XML and JSON data formats for storing government statistical datasets.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe key rehabilitation outcome metrics tracked across different patient recovery phases.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve: Calculate ROI metrics for utility-scale solar projects versus traditional power plants.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare viral marketing ROI versus traditional advertising across different social media platforms.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Recommend data visualization tools for tracking real-time fleet movement and delivery patterns.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare response rates between online and phone surveys across different age demographics.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Recommend data visualization color palettes that would work well in both analytics and paintings.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a dashboard analyzing the correlation between unemployment rates and welfare program participation.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Explain how regression analysis can predict veteran healthcare service utilization patterns.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design an interactive dashboard visualizing student progress patterns in algebraic problem-solving.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design an infographic dashboard showing daily habits tracked through numerical metrics.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Explain how levelized cost metrics compare solar investments versus traditional energy sources.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to visualize neighborhood health disparities data for compelling policy presentations?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to automate file organization in Google Drive using filters and scripts?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve which pollutants correlate most strongly with respiratory illness rates in urban areas",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Solve why patient newsletter open rates dropped 40% in our elderly population.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to analyze rugby performance metrics for Fiji's national team since 2015?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create visitor demographic profiles for a new theme park's most profitable attractions.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a visualization comparing CPU speeds from 1980s computers to modern processors.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Explain how expected goals (xG) statistics can improve player scouting decisions.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Explain how data privacy breaches impact consumer trust in tech companies",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a Python function to convert CSV data into nested JSON objects.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "What is the correlation coefficient threshold for determining strong statistical relationships?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "What is the average response rate for job applications on LinkedIn versus Indeed?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve discriminatory bias in facial recognition systems used by law enforcement agencies",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Analyze textile waste data's impact on local species decline over the past decade.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe your experience analyzing large datasets and managing data quality control.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe statistical methods to debunk supposed numerical patterns in celebrity birth dates",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Recommend reliable data sources for tracking sulfur dioxide emissions from active volcanoes.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design a dashboard displaying email open rates, click-through metrics, and A/B test results.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Solve inconsistencies in quarterly compliance data reporting across multiple regional databases.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare SQL vs NoSQL databases for implementing real-time search functionality.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Analyze patient remission rates between placebo and treatment groups across three trial phases.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Solve why specific neighborhoods show unexpected spikes in evening power consumption patterns.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve how media monitoring tools can better track sentiment in tech PR coverage",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "What is the statistical significance of carbon emission reductions across policy interventions?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Analyze current project milestones and predict completion dates based on historical data.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to identify anomalous patterns in network traffic logs using Python scripting?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Explain how gene expression patterns differ between healthy and cancerous tissue samples.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve: Analyze financial transaction patterns to identify suspicious transfers within corporate accounts.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve which benefit package combination maximizes employee satisfaction while minimizing company costs",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe the relationship between terrain elevation and civil conflict frequency in Africa.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare eruption patterns between Hawaiian and Icelandic volcanoes over the past decade.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design a dashboard template for visualizing global humanitarian aid distribution patterns.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design an interactive dashboard to visualize medication cost trends and patient outcomes.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design a visual dashboard showing AI predictions vs traditional marketing campaign results",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Analyze workplace productivity trends comparing open-plan offices versus individual workspaces.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve inconsistencies in patient readmission data across three different hospital databases",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe essential PySpark transformations needed for efficient large-scale data processing workflows.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve ROI calculations for implementing renewable energy systems across retail locations",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design a dashboard to monitor database performance metrics and backup status daily.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to merge multiple vector layers using QGIS and Python scripting?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a dashboard tracking monthly patient readmission rates across our hospital departments.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design a dashboard layout that minimizes SQL report rendering time bottlenecks.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to conduct regression analysis for identifying significant variables in research data?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a data visualization showing elevation gain patterns for popular hiking trails nationwide.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "What is the correlation between chronic cortisol levels and mindfulness meditation effectiveness?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Analyze network latency patterns during peak hours to optimize data processing efficiency",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe the impact of nearshore versus offshore outsourcing on operational costs.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Analyze publication trends in neuroscience research papers over the past five years.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Design a customer feedback dashboard that visualizes satisfaction trends and key complaints.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe patterns in ceramic artifact distribution across our excavation sites since 2019.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Analyze transaction patterns to identify potential discrepancies in monthly financial records",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Analyze which programming skills are most valuable for transitioning from analyst to data scientist.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to validate a data analyst's methodology for potential flaws and statistical biases?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Recommend data visualization tools to effectively present voter demographic trends to stakeholders.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe how predictive analytics could improve our project timeline estimations.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe urban migration patterns in Lagos over the past five years.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "How to assess employee readiness for AI implementation using skills assessment data?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe the correlation patterns between temperature variables in this climate dataset.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Recommend meditation apps that help analyze stress patterns through data visualization techniques.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "What is the correlation between bot activity spikes and disinformation campaign patterns?",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a demographic visualization showing Nigeria's urbanization trends from 2000-2020.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "solve increasing hospital wait times using data from five regional medical centers",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare Pomodoro technique versus time-blocking effects on student athletes' study efficiency.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare quarterly revenue growth rates between our top three product lines from 2022-2023.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Create a learning roadmap to master advanced statistical methods for clinical data analysis.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Describe the benefits and drawbacks of using write-through versus write-back caching strategies.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Solve why our weekend delivery success rates dropped 12% last month citywide",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Analyze childhood asthma rates across different neighborhoods to identify environmental health disparities.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Compare use-of-force incidents between rural and urban police departments in 2022.",
+        "category": "data analyst"
+    },
+    {
+        "instruction": "Explain how data normalization improves the accuracy of public health records.",
+        "category": "data analyst"
+    }
+]

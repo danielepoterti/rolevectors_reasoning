@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Analyze PostFinance payment gateway integration issues in PHP e-commerce implementations.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a step-by-step roadmap for becoming a full-stack web developer.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to reduce image file sizes without compromising quality for my website?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend alternatives to RequireJS for modern JavaScript module bundling and dependency management.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend beginner-friendly tutorials for React.js with Portuguese language subtitles.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to implement PHP interfaces for consistent array structure across multiple classes?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the correct way to structure nested divs for responsive layouts?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze performance differences between type assertions and type guards in TypeScript code.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to implement schema markup to improve SEO rankings for local businesses?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is Fog computing and how does it relate to Ruby applications?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a Twig template that implements custom filters for date formatting",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain how RESTful APIs integrate with modern football statistics tracking applications",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend the most essential pip packages for Python web development beginners.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend best practices for integrating JavaScript with Oracle ADF face components effectively",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a news article layout that prioritizes readability and reduces cognitive load.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain which online portfolio platform would best showcase my digital artwork professionally.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design an interactive family tree visualization tool with DNA match integration features.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a mobile-friendly checkout flow that reduces cart abandonment rates.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve how to properly implement thread-safe memory management in a C program",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a requirements.txt file with Django and common web development dependencies.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a deployment checklist for migrating an ASP.NET MVC app to Azure.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend server-side templating engines for building traditional multi-page web applications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the essential components needed for building a secure Shopify checkout integration.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze the performance differences between Yii and CodeIgniter for MVC web applications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the essential steps to create a basic Flask application from scratch.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe how bioinformatics APIs can enhance genetic data visualization in web applications",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare kebab-case versus camelCase for variable naming in modern web development.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to implement async/await functions in JavaScript for better API handling?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the visual hierarchy flaws in this poorly designed website's navigation menu.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend modern alternatives to MooTools for creating smooth accordion animations in JavaScript",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a responsive user interface for our Electron-based productivity management desktop app.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a CSS selector strategy to target nested elements using BEM classes.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is Microsoft's long-term strategy for cloud computing and developer tools?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the benefits and drawbacks of nginx versus Apache for web hosting.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a responsive audio player widget for embedding podcast episodes across platforms.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a SiteMinder integration flow for secure user authentication between web applications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve: How to implement a chatbot API endpoint using Node.js and TensorFlow.js",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a responsive HTML template for my local furniture store website.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a user-friendly family tree visualization component using JavaScript and D3.js library.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare XPages development with modern JavaScript frameworks like React for web applications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to brainstorm witty wordplay for website headers that boosts brand engagement?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to create a responsive CSS grid with smooth hover animations?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare Google Maps API vs Mapbox API in terms of pricing and implementation time.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a RESTful API architecture for integrating SOAP services with Axis2 endpoints.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend legitimate passive income streams specifically for experienced web developers and programmers.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze why some JavaScript functions are called asynchronous and others synchronous?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the most effective way to measure user engagement metrics?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve ergonomic desk height and monitor placement for an 8-hour coding session",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe how Blade templating in Laravel differs from traditional PHP templates.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve: How to make mythical creature animations load smoothly on basic school computers?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend learning resources for self-taught developers without access to local tech communities",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a modular plugin architecture for extending Trumbowyg's image manipulation capabilities.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design animated clues that reveal hidden illustrations when users solve web-based puzzles.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the best way to integrate JSNLog with Angular error interceptors?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain why browser user-agent strings contain legacy tokens like Mozilla/5.0",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend beginner-friendly templates for creating my first GitHub Pages portfolio website.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze how Haskell's type system differs from dynamic typing in web development",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend e-commerce plugins for integrating independent bookstore inventories with WordPress websites.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze the performance impact of different Drupal theme preprocess functions on page-load speed.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze user flow patterns and bottlenecks in our hotel booking checkout process",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze why React components re-render and how to prevent unnecessary renders.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create documentation guidelines for introducing new API features to end-users and developers.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the difference between server-side rendering and client-side rendering?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve performance bottlenecks in WebGL rendering for browser-based multiplayer games",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a responsive navigation menu with smooth scroll animations for mobile users.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend modern JavaScript frameworks for building scalable microservices in a startup environment.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a troubleshooting guide for common SiteMinder authentication errors in web applications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend alternatives to Modernizr for detecting HTML5 and CSS3 feature support",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare React and Angular frameworks for building modern web applications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare React and Angular for building an interactive Shakespeare play visualization website.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a step-by-step guide comparing Laravel Blade with PHP's native templating syntax.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to integrate a Python Flask backend with a React.js frontend application?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the best tool for creating interactive coding tutorials online?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "How to fix CORS error when making API calls from React to Node.js?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the best HTML structure for a small business homepage?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve how to create a pure CSS tooltip without using JavaScript",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend frontend frameworks for building responsive single-page applications with real-time updates.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze how incorporating puns impacts user engagement and time spent on website pages.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a script that translates Spanish text within HTML elements to English",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare WebArchive and Archive.org's approaches to preserving web content and accessibility standards.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain how YouTube Analytics can help track and improve video performance metrics",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe how AI can optimize PHP code performance and detect potential bugs.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze which sorting algorithm would be most efficient for a website's search results",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend object-oriented design patterns that translate well from C++ to JavaScript.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "{error:{message:Internal Server Error,code:500},user_id:user_2gHaO3H0mqefQDEeRFdZ4GQ70OT}",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain why this code works fine despite all the console errors",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a series of UI elements exploring color theory and visual hierarchy principles.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design an architecture diagram showing isomorphic rendering flow between React and Express.js",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a secure user authentication system using Devise for my startup's web application.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain how to automate Excel data imports from multiple web API sources",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the difference between SAP UI5 and OpenUI5 frameworks?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a VS Code extension that streamlines Git workflow for remote dev teams.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Explain how A/B testing can improve landing page conversion rates for beginners.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend e-commerce platforms best suited for selling webcomic merchandise and digital downloads.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Solve recurring HTTP 500 server errors appearing in my client's WordPress site",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a responsive gaming website layout with intuitive navigation and player statistics.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend frameworks for building a responsive real estate listing search interface",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve: How to optimize WordPress database performance for my high-traffic vaping blog?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design an algorithm visualization tool for sorting methods using web animations.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare vanilla JavaScript DOM manipulation with jQuery for basic website interactions",
+        "category": "web developer"
+    },
+    {
+        "instruction": "{error:{message:Internal Server Error,code:500},user_id:user_2gHaO3H0mqefQDEeRFdZ4GQ70OT}",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare infinite scroll versus pagination for news website user engagement and experience.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design a prototype for a web app using React and WebAssembly.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare server-side rendering versus client-side rendering for modern web applications.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare console.log and modern JavaScript logging libraries for frontend debugging effectiveness.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare SharePoint BCS external content types versus traditional SQL database connections.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a real-time comment moderation system for live-streamed protest events.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Design an animated scroll-triggered hero section for an extreme sports gear website.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare kebab-case and camelCase when naming variables in JavaScript code.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare Canvas API and SVG for handling real-time image manipulations in JavaScript.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a script to automate SSI directives for dynamic content inclusion.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the ideal way to structure fantasy magic systems in worldbuilding?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the most effective color contrast ratio for maximum website accessibility?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is WCAG compliance and why is it crucial for website accessibility?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe the API authentication requirements for integrating Instagram feeds into e-commerce websites",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze the current portfolio website's loading speed and identify performance bottlenecks.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Recommend a secure and scalable database solution for my web application backend.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Describe essential website features that effectively communicate nuclear safety to concerned citizens.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "{error:{message:Internal Server Error,code:500},user_id:user_2gHaO3H0mqefQDEeRFdZ4GQ70OT}",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a no-nonsense guide to refactoring legacy code without the corporate buzzwords",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Create a custom Twig filter to format dates in multiple localized formats.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze the checkout flow for common friction points affecting cart abandonment rates.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "solve TypeError occurring in JavaScript array when using map() function",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Analyze viewer engagement patterns across different documentary trailer formats on our website.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare server-side rendering versus client-side rendering for landing page performance.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare pip and conda package managers for installing Python modules.",
+        "category": "web developer"
+    },
+    {
+        "instruction": "What is the main difference between React and Inferno's component lifecycle methods?",
+        "category": "web developer"
+    },
+    {
+        "instruction": "Compare BEM methodology versus SMACSS for organizing large-scale CSS projects.",
+        "category": "web developer"
+    }
+]

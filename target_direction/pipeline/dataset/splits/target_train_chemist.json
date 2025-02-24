@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Describe how Fred Wudl's discoveries revolutionized conductive polymer development in electronics.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare soluble and insoluble compounds in terms of their behavior in water.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how viral capsid proteins can be modified for targeted gene delivery.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the catalytic efficiency of lignocellulose conversion in second-generation biofuel production?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Solve this electron configuration problem for magnesium's outer shell using orbital notation.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Analyze the impact of mentorship programs on retention rates in pharmaceutical research departments.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Describe the chemical reactions that create Colombian coffee's distinct aromatic compounds.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create an AI model to predict drug-protein interactions for faster compound screening.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "solve: Calculate optimal soil pH levels for growing anthocyanin-rich plants in acidic conditions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a molecular diagram showing how vanillin produces its characteristic vanilla scent.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a detailed protocol for chemically analyzing accelerant residues in suspected arson cases.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how pigment particle size affects ink viscosity and printing performance",
+        "category": "chemist"
+    },
+    {
+        "instruction": "How to conduct simple polymer experiments using household materials for materials science?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how protein folding affects enzyme active sites and catalytic efficiency.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "How to analyze the Global Fund's impact on HIV/AIDS drug distribution programs?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "I apologize, but I cannot assist with generating prompts related to drug synthesis or production methods, even in a historical context, as this could enable harmful activities.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the chemistry behind early silver nitrate photographic processes in 1800s China?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a diagram showing how P. falciparum develops resistance to artemisinin-based drugs.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design a stable emulsion system for a vitamin C serum with minimal oxidation.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare the catalytic efficiency of platinum versus palladium in hydrogenation reactions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design a monitoring system to detect chemical byproducts from engineered microalgae cultures.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "How to synthesize organic compounds using green chemistry principles and sustainable catalysts?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design an infographic explaining quantum tunneling's role in biological enzyme reactions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare Beilstein Handbook's organic compound indexing with modern Chemical Abstracts Service database.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a flowchart showing enzyme immobilization techniques for continuous-flow bioreactor systems.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the molecular mechanism behind medicinal plants' anti-inflammatory compounds?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the metabolic pathway for drug absorption in canine digestive systems?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Analyze the binding affinity of our synthesized compound against the target protein.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Describe the metabolic pathways involved in your proposed nutrient absorption research protocol.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the biocompatibility testing protocol for this medical device's polymer coating?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare wet lab protein binding assays versus in silico protein-protein interaction predictions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a synthesis pathway for converting biomass into efficient hydrogen storage materials.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design a molecular structure that maximizes electron transfer efficiency in photovoltaic materials.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Describe the visual reaction when mixing potassium permanganate with hydrogen peroxide solution.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how atomic bonds form and break during chemical reactions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how flavonoids in medicinal plants interact with human cell receptors.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare traditional drug testing methods with new biomarker screening protocols in athletes.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare the properties of steel and aluminum when used in everyday objects.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare commercial yeast strains versus wild fermentation for Pinot Noir wine production.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the true impact of Gates Foundation funding on global health research?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "solve Nigeria's power infrastructure challenges using renewable chemical energy storage solutions",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend recent papers on ocean acidification's impact on coral reef calcification rates.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "solve: Calculate the molarity of 3.5g NaCl dissolved in 250mL solution.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a natural compound extraction protocol for isolating medicinal alkaloids from rainforest plants.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a diagram showing how organophosphate pesticides interact with acetylcholinesterase enzymes.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "solve the isotope fractionation pattern in these basaltic rock samples from Taiwan",
+        "category": "chemist"
+    },
+    {
+        "instruction": "How to isolate and analyze adjuvant compounds in novel vaccine formulations?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the significance of Imre Csizmadia's contributions to computational quantum chemistry?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design a transparent database tracking private research funding sources in biomedical sciences.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "How to calculate the equilibrium constant for an exothermic chemical reaction?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "How to stabilize plant-based plasticizers in non-toxic nail polish formulations?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Solve why genetic enhancement should be permitted despite common bioethical objections.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Analyze how early Chinese photographers used chemical processes to develop their images.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend non-invasive testing methods for analyzing 18th-century oil painting pigment compositions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design an enzyme immobilization system for continuous flow biocatalysis in pharmaceutical manufacturing.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how ice crystal formation damages cell membranes during organ freezing processes.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a timeline showing STAYC members' most meaningful friendship moments since debut.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend beginner-friendly libraries for building responsive web applications using JavaScript.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Analyze the reliability of this novel protein detection assay compared to established methods.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Analyze photosynthetic efficiency variations between C3 and C4 plants under drought conditions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Describe the mechanism of drug absorption through different biological membrane transport systems",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design a portable spectroscopy device for rapid trace metal detection in seawater samples.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Solve the stereoselective synthesis of chiral alcohols using asymmetric reduction reactions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how ATP synthase produces energy without using complex biochemical terminology",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a diagram showing enzyme activity changes during lactic acid fermentation pathways.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design a compact filtration system for collecting microplastic particles from water samples.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how synaptic plasticity changes in the hippocampus following traumatic events.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design a metabolic pathway visualization tool showing real-time flux control coefficients.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Describe the development and impact of Robert Bunsen's revolutionary spectroscope design.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how method acting techniques create deeper emotional connections during performance scenes.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "How to explain serotonin and brain chemistry to my 8-year-old with anxiety?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the chemical reaction that makes bread dough rise during baking?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "solve why baking soda and cream of tartar react to make fluffy meringues",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain why Bunsen burners are rarely used in modern chemistry labs nowadays",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the mechanism behind the Grignard reaction in organometallic synthesis?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend reliable resources for learning advanced organic synthesis reaction mechanisms.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a periodic table where metal halides glow with excitement and personality!",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a recipe incorporating fermented vegetables that maximizes nutrient bioavailability and gut health.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Describe the proper procedure for crushing and pulverizing rock samples before analysis",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Analyze the kinetic parameters of cellulase enzymes during biodegradable plastic decomposition.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Analyze the reactivity patterns of Group 1 metals with water at 25C.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "How to extract and analyze alkaloid compounds from medicinal rainforest plants?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a metabolic pathway diagram showing natural performance enhancement through nutrient timing optimization.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "solve strategies for building better communication during defensive plays between infielders",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare the health effects of vaping versus traditional cigarette smoking on lung tissue.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how machine learning models predict transition state energies in chemical reactions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Analyze Marie Curie's impact on early radiochemistry research and scientific literature.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "solve why high calcium levels aren't stabilizing in my reef tank despite regular dosing",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Solve why oil and water paints create different visual effects on canvas.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend breakthrough papers by Jennifer Doudna on CRISPR-Cas9 biochemical mechanisms.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how enzyme inhibitors affect the rate of biochemical reactions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare the toxicity mechanisms of organophosphate and carbamate-based agricultural pesticides.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Analyze binding interactions between ligand-protein complex using molecular dynamics simulation data",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design a screening tool to assess chemical compounds' environmental impact before lab testing.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how periodic trends affect electronegativity across the periodic table.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Describe the molecular signaling pathway of caspase-dependent apoptosis in mammalian cells.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Explain how enzymes lower activation energy in simple, everyday terms.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a groundbreaking experimental method to measure quantum effects in chemical reactions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare gluconeogenesis and glycogenolysis pathways in hepatocytes during fasting states.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare SN2 and SN1 reaction mechanisms in terms of stereospecificity and kinetics.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the correlation between saturated fat intake and arterial plaque formation?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design a groundbreaking catalyst that converts CO2 into renewable fuels efficiently.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare CRISPR gene editing to traditional genetic modification techniques in agricultural applications.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend advanced protein assay techniques for detecting novel cancer-specific molecular signatures.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend suitable solvent systems for separating alkaloids using thin-layer chromatography.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare the electron configurations of transition metals Copper and Silver.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend preservation techniques for 18th-century manuscripts with iron gall ink damage.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Analyze recent breakthroughs in catalytic conversion methods for sustainable chemical manufacturing processes.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the etymology of the word alkali in chemical terminology?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Create a detailed diagram showing caspase cascade pathways during programmed cell death.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the experimental validation method for predicted protein-protein binding interactions?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "How to validate protein-drug interactions using molecular docking simulation software?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Describe how Kathlyn Parker pioneered methods for analyzing chemical structures using spectrometry.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Solve the environmental impact of hydrazine-based rocket propellants on atmospheric chemistry.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is the typical career progression path for an atmospheric chemistry researcher?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend software tools for analyzing protein-ligand binding data from lab experiments.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "solve the binding mechanism between SARS-CoV-2 spike protein and ACE2 receptors",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design a surface-enhanced Raman spectroscopy setup for analyzing single molecular interactions.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "What is high-throughput screening's role in identifying potential drug candidate compounds?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "How to extract natural indigo pigments from woad leaves using eco-friendly methods?",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend essential safety equipment needed when conducting acid-base titration experiments in lab class.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare hydraulic fracturing and supercritical CO2 extraction methods for natural gas recovery.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Design an ethical protocol for testing controversial genetic modification treatments on animals.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Compare molecular dynamics simulations with quantum mechanics approaches for protein folding analysis.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend natural UV-filtering ingredients suitable for reef-safe mineral sunscreen formulations.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Analyze AI-driven drug discovery models' success rates compared to traditional laboratory methods.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "Recommend novels that explore the intersection of science and classic literature themes.",
+        "category": "chemist"
+    },
+    {
+        "instruction": "How to validate in vitro protein-ligand binding data against molecular docking predictions?",
+        "category": "chemist"
+    }
+]

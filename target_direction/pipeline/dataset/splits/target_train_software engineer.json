@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Explain why Montreal has become a major tech hub for AI companies.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "solve: How to implement memory leak detection in Tizen native service applications?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the main difference between B-trees and binary search trees?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "solve how to convert Java ArrayList to C# List for beginner developers",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a beginner's roadmap for self-taught developers entering tech without formal education.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a custom HashMap implementation that handles concurrent access with versioning support.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a step-by-step migration plan for converting monolithic Java code to microservices.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain how recursive algorithms work in solving divide-and-conquer programming problems",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend a beginner-friendly way to understand Apache Karaf's bundle deployment workflow.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain how database sharding improves application performance and handles scalability challenges.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Design a minimalist app interface for finding tech meetups in Montreal.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is kext signing and why is it crucial for macOS kernel extensions?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain how vectorization improves performance in numerical computing operations.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend resources to learn Spring Batch fundamentals for Java backend developers.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "How to streamline client data tracking across multiple social service programs efficiently?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe the essential SOLID principles your mentor taught for writing maintainable code.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a Contentful webhook to trigger Next.js ISR when content updates occur.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain how microservices architecture differs from monolithic in terms of scalability",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend employee survey templates for measuring satisfaction with HR software tools",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the difference between JSON serialization and Protocol Buffers?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze power consumption patterns in our drone's flight control system during hovering",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze dating app algorithms and their success rates in creating lasting relationships",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Design a user-friendly error logging system to help debug our application faster.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a curated reading list of advanced Python books for machine learning developers.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze successful tech startups from developing nations and their growth strategies.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a formal verification model for a zero-knowledge proof authentication system.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Design an ethical code reporting system that protects whistleblowers in software development teams.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend migration strategies for converting Objective-C codebase to Swift while maintaining database integrity.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "solve how to implement adaptive learning rates in gradient descent algorithms",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe the data architecture needed to implement real-time machine learning predictions",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "How to implement real-time phoneme detection in Python for speech analysis?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend syntax approaches for representing mathematical tensors in programming language notation.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain how machine learning algorithms can optimize disaster relief resource distribution systems.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Design a modernized interface for classic arcade games while preserving their nostalgic feel.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is A/B testing and its role in improving user engagement metrics?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze how parametric design principles can optimize software development for architectural modeling.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain the principles of clean code architecture for developing efficient gaming applications.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the most efficient way to integrate biometric data APIs into wearables?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "solve: How to efficiently handle memory management in JavaScript compared to C++?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze performance bottlenecks when converting CSV files to a NoSQL database format",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain what's the practical difference between interfaces and abstract classes in Java?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe the implementation steps for integrating OAuth2 authentication into a REST API.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze user engagement patterns in genealogy apps to identify most-used family research features.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe ideal embedded systems projects that showcase advanced RTOS and microcontroller expertise.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze time complexity differences between bubble sort and quicksort algorithms.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a CI/CD pipeline for deploying a React application to AWS.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create an algorithm flowchart for detecting handwritten text in historical manuscripts",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Solve the cold start problem when recommending movies to brand new users.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe essential features needed for a mentorship matching system within a coding forum",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Compare Entity Framework's Code First approach versus Database First in .NET development.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Solve performance bottlenecks in our microservices architecture without increasing cloud costs.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Compare Linux kernel modules loading mechanism with Windows driver registration in registry.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze why AI projects fail to deliver expected results in enterprise environments",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze this database schema diagram to identify potential performance bottlenecks and relationships.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend secure encryption methods for protecting sensitive financial data in banking applications.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create an algorithm to predict NBA player performance based on historical stats",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain the H-1B visa application process and requirements for software engineers.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the best audio interface for recording vocals in Logic Pro X?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "How to implement rate limiting and API authentication for a Node.js website?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze the performance differences between UI-Router and Angular Router in SPAs.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a guide showing OkHttp best practices for handling image uploads with Picasso.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend best practices for optimizing N1QL queries in Couchbase for better performance.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain how image compression algorithms optimize photo storage without sacrificing quality.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a script to automate BizTalk host instance monitoring using Management API",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a fault-tolerant Celery task queue system with RabbitMQ retry mechanisms",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a database tracking system for logging environmental law violations by tech companies.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Design a user authentication system for a cloud-based software development platform.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the purpose of the semicolon at the end of Matlab commands?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "How to reduce execution time of Windows batch scripts using parallel processing?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the purpose of the .pc file extension in pkg-config systems?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze veteran hiring programs' impact on software development team performance metrics",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend 3D modeling software that best simulates fabric draping and movement patterns.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "How to implement auto-scaling for an AWS EC2 instance using CloudWatch metrics?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "How to integrate real-time weather API data into a Python data analysis pipeline?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend efficient spatial indexing methods for processing large archaeological site datasets",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend software tools to analyze and track individual player statistics during training sessions.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze the code performance impact of using PHP 8's named arguments feature.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze the technical precision and synchronization patterns in this championship dance routine.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe PromiseKit's advantages over traditional callback patterns in iOS development.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze data pipeline architectures for processing real-time customer transaction logs efficiently.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Compare monolithic architecture versus microservices for developing a scalable web application.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend database optimization techniques for handling large-scale time-series sensor data",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "How to implement monads from functional programming in a object-oriented codebase?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create an algorithm to detect wind shear patterns in complex mountain terrain topography.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a graph-based algorithm using homology theory for detecting network vulnerabilities.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe the common causes and debugging methods for memory leaks in Linux processes",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain how fingerprinting techniques detect browser automation using JavaScript event listeners.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze the correlation between unemployment rates and consumer spending using time-series visualization.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a surfing-themed productivity app that tracks wave conditions and coding deadlines.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe how Professor Thompson's algorithms course influenced your approach to problem-solving",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze which open-source projects best help beginners learn software development fundamentals.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze different ergonomic keyboard layouts for reducing wrist strain during coding sessions.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Compare spike sorting algorithms for isolating single-neuron activity in multi-electrode recordings.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "solve Chrome DevTools performance bottlenecks when debugging large JavaScript applications",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the most effective way to communicate technical ideas to non-technical stakeholders?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a volunteer management app that addresses issues I faced during VISTA service",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend Unity packages for creating realistic physics-based character movement in 3D games",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "How to implement a scalable component structure in an Ember.js application?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe why this startup's blockchain solution isn't just another cryptocurrency scheme.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Solve network latency issues affecting video calls during remote team meetings.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain how Chrome's price tracking API communicates with e-commerce website backends.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the advantage of using MapStruct over manual mapping in Java?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Compare machine learning algorithms for predicting air cargo delivery delays and bottlenecks.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "solve data serialization conflicts when transferring JSON between AWS Lambda and DynamoDB",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze performance impact when migrating Java projects from NetBeans 8 to 12",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe the performance differences between list comprehension and traditional for loops.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the advantage of using Julia over MATLAB for numerical computing?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze why breaking down algebra problems mirrors debugging code in programming.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze why unique_ptr is preferred over raw pointers for memory management.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create an algorithm to predict wind patterns across mountainous terrain using elevation data.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a secure AJAX-based form validation system using Django's built-in authentication middleware.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Explain why stack buffer overflows can execute malicious code in memory.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the optimal sampling rate for real-time traffic sensor data collection?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe the authentication process for implementing Google Cloud Translation API endpoints.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "How to convert Python functions into JavaScript using basic syntax comparisons?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Compare UIKit and SwiftUI for building iOS app interfaces.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a custom PyTorch dataset class for handling time-series sensor data efficiently.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the difference between DDS texture compression and S3TC in DirectX?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe quantum entanglement's implementation using ProjectQ's quantum circuit simulation capabilities in Python.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the optimal netcode approach for implementing client-side prediction in multiplayer games?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Describe the steps for debugging Java code effectively in Eclipse IDE.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a PNG compression algorithm optimized for iOS memory constraints and performance.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Analyze why my cron job keeps failing at different times each night",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Recommend practical use cases where Java enums outperform regular constants in software development.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the Nyquist stability criterion's application in MATLAB's Control System Toolbox?",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Create a scalable API architecture for handling real-time payment processing transactions.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "Design a minimalist book cover using binary code patterns and poetic typography.",
+        "category": "software engineer"
+    },
+    {
+        "instruction": "What is the best way to measure feature adoption and user engagement?",
+        "category": "software engineer"
+    }
+]

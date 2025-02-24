@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "What is the significance of VSWR readings when testing coaxial cable performance?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare a trade school education versus a college degree for aspiring electronics technicians.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare hands-on electronics experience versus formal electrical engineering degree training programs.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Explain how antenna polarization affects signal strength and reception in RF communications.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Solve this basic circuit problem and explain why studying electrical engineering matters.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Solve this circuit diagram problem and explain why studying electrical engineering matters.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "What is the best path to become a certified electronics technician through college?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare a trade school certificate versus a Bachelor's degree in electronics engineering.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to properly remove and replace BGA components on a circuit board?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a step-by-step guide for troubleshooting common SMD component soldering failures.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a study plan for getting an associate's degree in electronics engineering technology.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Describe the optimal placement and orientation of a Yagi antenna for maximum gain.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Describe the typical radiation pattern differences between Yagi and log-periodic dipole antennas.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a step-by-step guide for troubleshooting common surface-mount component soldering failures.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend soldering tools and techniques for repairing surface-mount device components.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Solve why my dipole antenna's VSWR readings spike when measuring higher frequencies.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare Yagi-Uda and log-periodic antennas for UHF signal reception and gain performance.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare vocational electronics training versus a four-year electrical engineering degree program.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare a trade school certification versus a bachelor's degree in electronics engineering.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to select an accredited electronics engineering program for career advancement?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to prepare for an Associate's degree in Electronics Engineering Technology?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to properly remove and replace surface mount components without damaging PCBs?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Explain how thermal paste affects heat dissipation in electronic components.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to troubleshoot VSWR issues on a directional dipole antenna system?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to properly tune a VSWR meter for UHF antenna impedance matching?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Solve this basic circuit's total resistance using Ohm's Law before enrolling in electronics.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a compact multi-band dipole antenna system for portable ham radio operations.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "What is the best academic path for becoming a certified electronics engineering technician?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "What is the ideal VSWR reading for a properly tuned UHF antenna system?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a step-by-step guide for troubleshooting common PCB solder bridge defects.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare through-hole and surface mount PCB assembly techniques and their practical advantages.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Explain why cold solder joints fail and how to prevent them.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a schematic for a low-power LED voltage indicator circuit using standard components.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "solve why this circuit board keeps shorting when testing 5V input voltage",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to calibrate a VSWR meter for accurate antenna impedance measurements?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze the benefits of earning an Electronics Engineering degree versus self-taught electronics experience.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend soldering tools and equipment for professional circuit board repair work",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "What is the difference between lead-free and leaded solder in circuit board assembly?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Describe the troubleshooting steps to identify a faulty capacitor on a motherboard",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "What is the significance of VSWR readings in antenna transmission line performance?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to calibrate a VSWR meter for accurate antenna impedance measurements?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend soldering techniques for working with surface-mount components on PCB boards",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze why this circuit board shows voltage fluctuations during peak load testing",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend reliable soldering tools for precision work on surface-mount circuit components.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare Yagi and log-periodic antennas for receiving UHF television signals.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Solve why this PCB's through-hole components have inconsistent conductivity after wave soldering.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Describe the ideal soldering temperature and technique for surface-mount component installation.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "solve why my soldered connection keeps breaking despite using lead-free solder correctly",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze the signal pattern degradation in a dual-band MIMO antenna configuration.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a compact dual-band antenna system for portable emergency communications equipment.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a PCB layout for a basic Arduino-compatible microcontroller board.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "solve why my soldered PCB connection keeps failing despite proper temperature settings",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Explain how digital multimeters work and why formal training improves troubleshooting skills.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a study plan for completing an Associate's degree in Electronic Engineering Technology.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare a technician certification program versus an electrical engineering bachelor's degree.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "What is the most valuable certification to start an electronics technician career?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a PCB layout for a voltage regulator circuit with minimal thermal dissipation.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a circuit diagram showing basic components needed for voltage amplification.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to properly clean and reflow solder joints on a damaged PCB board?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to troubleshoot standing wave ratio issues in a coaxial cable system?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to diagnose and fix cold solder joints on surface-mount components?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Describe the proper technique for desoldering and replacing surface-mount components safely.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare community college and university pathways for becoming an electronics engineering technician.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a compact dipole antenna system for 2.4GHz wireless communication applications.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a study plan for completing an associate's degree in electronics engineering technology.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze the failure points on this circuit board showing inconsistent voltage readings.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "User\u6975",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze the advantages of obtaining an electronics engineering degree versus self-taught experience.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a study plan for earning an Electronics Engineering Technology associate's degree.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a compact dual-band helical antenna for portable VHF/UHF radio communications.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a compact dipole antenna system for receiving 2.4GHz Wi-Fi signals.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a study plan for earning an Associate's Degree in Electronics Engineering Technology.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare through-hole and surface-mount soldering techniques for PCB assembly.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Describe the proper soldering technique for surface-mount components on PCB boards",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare Yagi-Uda and log-periodic dipole antennas for UHF signal reception.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze why formal electronics training is better than learning through YouTube tutorials.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare a trade school certificate versus a college degree in electronics engineering.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Describe the educational path required to become a certified electronics repair technician.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend reliable solder brands and temperatures for surface-mount component assembly",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a detailed diagram showing the radiation pattern of a Yagi-Uda antenna design.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend best tools for measuring signal strength and VSWR in satellite antennas",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend reliable soldering tools and equipment for PCB rework under $200",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "What is the difference between lead-free and leaded solder in circuit board assembly?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "What is the ideal VSWR range for a commercial broadcast antenna system?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Explain why solder bridges form between circuit traces during PCB assembly.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a PCB layout for a voltage regulator with thermal protection circuitry.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend soldering tools and equipment for repairing surface-mount device circuit boards.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a step-by-step guide for troubleshooting faulty connections on PCB boards.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze the VSWR pattern changes when adjusting the reflector position on parabolic antennas.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a portable yagi antenna system for improved UHF signal reception in remote areas.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to calibrate a VSWR meter for accurate antenna impedance measurements?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Describe the career advancement opportunities after completing an electronics engineering degree.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a circuit diagram showing basic components for a beginner electronics student.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "solve why this circuit board's voltage regulator keeps overheating during standard operation",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "How to identify and replace faulty capacitors on a motherboard using SMD components?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a custom PCB layout for a small-scale Arduino-based temperature monitoring system.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare through-hole and surface mount soldering techniques for printed circuit boards.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "What is the difference between AC and DC circuits in electronics education?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze the VSWR measurements on this dual-band antenna for potential impedance mismatches.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare through-hole and surface-mount PCB assembly techniques for circuit board manufacturing.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze why this circuit board keeps overheating near the voltage regulator components.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Solve why a VSWR reading suddenly increased on a coaxial cable transmission line.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a study plan for earning an Associates degree in Electronics Engineering Technology.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze the VSWR readings across different frequencies for this dual-band Yagi antenna.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare directional Yagi antennas versus parabolic dish antennas for long-range signal reception.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare vocational training versus university degrees for aspiring electronics technicians.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Explain the advantage of learning circuit theory before starting hands-on electronics work.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a study plan for getting an associate's degree in electronics engineering technology.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Describe the methods for measuring VSWR on a high-gain directional antenna system.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "What is the proper method for removing and replacing BGA components safely?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Describe how an electrical engineering degree compares to learning through work experience?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze the impedance matching patterns in a dual-band dipole antenna system.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze the failure points in this PCB's voltage regulator circuit causing power instability.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend essential courses for getting an associate's degree in electronics engineering technology.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Design a PCB layout for a compact voltage regulator with overcurrent protection.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "What is the purpose of flux when soldering components onto circuit boards?",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Create a study plan for earning an Associate's Degree in Electronics Engineering Technology.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Explain why earning an electronics engineering degree beats learning through YouTube tutorials.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend accredited electronics engineering programs known for hands-on circuit design training.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend beginner electronics courses that teach circuit design at accredited technical colleges.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Explain why formal electronics training is better than learning through YouTube tutorials.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Solve why this circuit board keeps overheating despite replacing the voltage regulator",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare lead-free solder versus tin-lead solder for PCB assembly and reliability.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Compare Yagi-Uda and log-periodic antennas in terms of bandwidth and gain characteristics.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Solve why formal training is crucial for safely working with high-voltage electronic equipment.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Analyze the VSWR readings on this dual-band antenna system for impedance mismatches.",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Explain how wave soldering works for mass-producing printed circuit board assemblies",
+        "category": "electronics technician"
+    },
+    {
+        "instruction": "Recommend the best electrical engineering programs for someone starting with technician experience.",
+        "category": "electronics technician"
+    }
+]

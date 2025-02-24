@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Recommend reliable methods for detecting bacterial contamination in drinking water samples",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe how agricultural runoff impacts coral reef ecosystems and marine biodiversity.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare bacterial diversity between healthy coral reefs and bleached coral ecosystems.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe how to effectively communicate complex research findings to potential investors",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare the growth rates of plants under LED lights versus natural sunlight.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze the shell patterns of Jurassic-era gastropods compared to modern sea snails.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare behavioral differences between sea otters and beavers as ecosystem engineers.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Recommend marine biologists who publish accessible research about coral reef restoration projects.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze gut bacterial composition differences between healthy and malnourished primates in captivity.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve how machine learning can predict coral bleaching events in tropical reefs",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design a visualization system to track gene mutations across multiple disease pathways.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Recommend equipment for measuring plant transpiration rates at elevations above 3000 meters.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare migration routes of sea turtles in 1990 versus 2020 amid ocean warming.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain how traditional ecological knowledge enhances modern wildlife population monitoring methods.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare mitochondrial and chloroplast organelles' roles in cellular energy production mechanisms.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze Arctic fox population changes in relation to diminishing sea ice coverage.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare machine learning models for predicting coral reef bleaching versus fish migration patterns.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Create a social media calendar that balances viral appeal with scientific accuracy.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve: How to measure tourist density's correlation with local coral reef degradation?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "What is the difference between wild-caught and farmed tuna migration patterns?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe the roles of introns and exons in pre-mRNA splicing mechanisms.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Recommend current methods for isolating bacteriophages specific to antibiotic-resistant Pseudomonas aeruginosa",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare metagenomic and amplicon sequencing approaches for characterizing soil microbial communities.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to isolate genomic DNA from oxygen-dependent bacterial colonies using PCR techniques?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe optimal packaging protocols for transporting delicate underwater sampling equipment overseas.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design a waterproof field journal system for tracking animal behavior in rainforest conditions.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain how microplastic particles enter marine food chains and affect ocean ecosystems.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design a scientific illustration of Pacific brachyuran crab species' distinctive carapace patterns.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe the role of CRISPR-Cas9 in precise DNA sequence modification and repair.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Recommend reliable lab equipment suppliers for vaccine antigen stability testing in Europe.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Create a detailed map showing local migratory patterns of endangered woodland songbirds.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Create a sustainable bioreactor design for studying algae-based renewable energy production.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze the correlation between local pollen counts and migratory bird patterns this spring.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve biodiversity impact metrics for evaluating ten-year corporate environmental responsibility programs",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Solve why some species maintain stable populations while others experience rapid evolutionary change.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design a research lab space optimized for studying boreal forest microbiome samples",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve the mechanism behind insulin receptor desensitization in type 2 diabetes patients",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to perform site-directed mutagenesis on plasmid DNA using PCR techniques?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze microplastic concentrations in Mekong Delta fish species over the past decade.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design a tracking device for monitoring whale migration that minimizes sound pollution.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design a conference banner featuring ocean conservation themes and marine biology elements.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Create a detailed timeline of a butterfly's metamorphosis stages in my biology journal.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe proper hand sanitization protocols before and after handling climbing equipment.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze the statistical significance of gene expression patterns in our latest dataset.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to implement machine learning models for tracking coral reef bleaching patterns?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Create a database schema for tracking species population changes across multiple ecosystems.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "What is the seasonal migration pattern of American Robins in our local area?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design an infographic showing the unique sensory adaptations of hammerhead sharks.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe how testosterone levels influence territorial behavior in male primates.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve the optimal parameters for a stochastic gene regulatory network model",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Recommend strategies to improve cell density yields in E. coli fermentation processes.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Recommend current research methods to study coral reef adaptation in warming oceans.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve the long-term impact of crude oil dispersants on coral reef reproduction",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to design a scientifically plausible ecosystem for a floating sky-island habitat?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve how to minimize damage to sensitive oceanographic sensors during long-distance shipping",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare lipid production in Chlorella and Scenedesmus algae species for biofuel potential.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design a fish-friendly turbine system for hydroelectric dams that prevents fish mortality.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe how hormonal differences influence male and female behavioral patterns across primates.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare mating behavior and color displays between Peacock cichlids and Electric Blue cichlids.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain how urbanization impacts the migration patterns of local wildlife species.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain how spider silk proteins self-assemble to create such strong natural fibers",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain how eutrophication affects oxygen levels in Dutch lake ecosystems.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain the regenerative abilities of nemertean worms after experiencing tissue damage.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve how to predict coral bleaching patterns using machine learning and temperature data",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design a visualization system for tracking gene expression patterns in drought-resistant crops.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to legally protect endangered plant species affected by rising temperatures?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve: How do genetic factors rather than social learning drive mate selection patterns?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to demonstrate genetic diversity as evidence of divine intelligent design?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to effectively debate evolutionary theory using biblical and scientific evidence?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to minimize chromosomal abnormalities during egg cell vitrification for IVF procedures?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze how hedgerow corridors impact crop pollination and local biodiversity levels.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design an experiment protocol to disprove current DNA helicase unwinding mechanism models.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain why vodka freezes differently than water, my curious lab friends!",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Recommend reliable field equipment for monitoring tree canopy density in tropical forests.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe the experimental design approach for analyzing gene expression patterns in cancer cells.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain how sled dogs regulate their body temperature during extreme arctic conditions",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe the hunting patterns and territorial markings of local mountain lions observed daily.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe how agricultural runoff impacts coral reef ecosystems and marine biodiversity.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain how rising ocean temperatures affect coral reef biodiversity and ecosystem stability.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "What is the minimum buffer zone needed between cabin construction and wildlife corridors?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe habitat fragmentation's impact on endangered species in tropical rainforest ecosystems",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare mitochondrial DNA replication in prokaryotes versus eukaryotes for metabolic efficiency analysis.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to measure photosynthetic activity in shade-adapted versus sun-adapted forest plants?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "What is the impact of microplastic pollution on marine food chains?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to validate DNA sequencing results using traditional Sanger methods versus next-generation techniques?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare the hunting behaviors of owls versus hawks in Pacific Northwest forests.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare fish population densities in protected marine areas versus high-traffic jet ski zones.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Recommend fluorescent cocktail recipes that glow like deep-sea bioluminescent organisms.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Recommend essential engineering principles that overlap with biological system designs in nature.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "What is the neurobiological mechanism linking aerobic exercise to improved cognitive performance?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design a data visualization system to track disease progression in soybean field trials.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve how zinc ions regulate transcription factor binding in eukaryotic gene expression",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain the essential equipment and supplies needed for a rainforest research expedition.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Create a wildlife research journal that's filled with animal-themed puns and observations",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Create a marine ecosystem featuring fish species mentioned in The Simpsons episodes.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "What is the relationship between canopy density and understory plant photosynthesis rates?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare natural and synthetic production of salicylic acid in medicinal plants.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare adaptive radiation in Darwin's finches versus Hawaiian honeycreepers through natural selection.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe potential societal impacts of CRISPR gene editing technology and funding priorities.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "What is the chemical composition of rusticles forming on deep-sea shipwrecks?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare the migratory patterns of monarch butterflies today versus fifty years ago.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design a minimalist infographic showing the secret life cycle of deep-sea bioluminescent organisms.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze how nocturnal mammals alter movement patterns when exposed to lidar scanning activities.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "What is the role of bioluminescence in deep-sea marine ecosystems?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze the structural composition of spider silk and its mechanical properties.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to measure soil biodiversity using DNA extraction and metabarcoding techniques?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Compare GPS collar tracking versus radio telemetry for monitoring wolf migration patterns.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze the statistical significance of gene expression patterns across experimental treatment groups.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Describe the optimal turbine blade design for minimizing marine ecosystem disruption.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to prove machine learning models outperform traditional biological assays in drug discovery?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Recommend books about matriarchal societies and their relationship with local ecosystems.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "What is the impact of underwater welding activities on local fish populations?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Design an educational infographic showing preservation methods for endangered native orchid species.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain how to visualize gene expression data using heatmaps and clustering methods.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze CRISPR-Cas9's off-target effects in human embryonic stem cell modification experiments.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to track and measure soil compaction caused by off-road vehicle traffic?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve why sickle cell trait carriers show resistance to severe malaria infection",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Recommend suitable cell lines for testing cosmetic products' cytotoxicity in vitro.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "How to isolate beta-lactamase enzymes from resistant E. coli bacterial cultures?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze expression patterns of mutant genes in different tissue samples after CRISPR editing.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain how anthrax spores can be definitively identified in suspicious mail packages.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Explain how traditional ecological knowledge varies between neighboring indigenous tribes' conservation practices.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "solve which bacterial genes show significant upregulation during oxidative stress conditions",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze how canopy fragmentation affects spider monkey movement patterns and population density",
+        "category": "biologist"
+    },
+    {
+        "instruction": "What is the role of oxytocin in social bonding across mammalian species?",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Create a data collection protocol for monitoring sled dogs' cardiovascular adaptations during races.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Create a biofiltration system design for removing heavy metals from industrial wastewater.",
+        "category": "biologist"
+    },
+    {
+        "instruction": "Analyze how hermit dwellings influence local wildlife behavior and habitat selection patterns.",
+        "category": "biologist"
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Analyze common coping strategies used by doctors when delivering terminal illness diagnoses.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the optimal design for integrating medical imaging equipment in spacecraft environments?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze recent treatment outcomes of rituximab versus TNF inhibitors in rheumatoid arthritis.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend key steps for properly assessing a deteriorating patient in ICU settings.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain why some viral infections respond to early fluids but others require antivirals.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design an intuitive meal planning app that syncs with doctors' dietary recommendations.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe the optimal conditions for preserving harvested organs during transportation between hospitals",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how volunteer healthcare programs can best support veterans' mental health needs",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe effective strategies for clear nurse-physician communication during patient handoffs.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a modern patient check-in system that reduces wait times at clinics.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze why laughter during patient intake correlates with better recovery outcomes.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how a doctor's expert diagnosis and treatment saved my life",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to match retired doctors with veterans based on medical specialties?",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve the medication access barriers for rural patients with chronic health conditions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how relative risk ratios influence community vaccination program implementation strategies.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a practical framework for first-year residents to handle difficult patient conversations effectively.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve why patient adherence rates vary significantly between different drug delivery methods",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare safety features between SUVs and sedans in protecting passengers during collisions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain the regulatory requirements for conducting multi-site clinical trials in biotechnology.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the most cost-effective medication for treating type 2 diabetes currently?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how patient privacy laws protect confidential medical information during legal proceedings.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create evidence-based protocols for post-surgical pain management in orthopedic patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the clinical significance of pharmacogenomic testing in prescribing antidepressant medications?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a patient monitoring dashboard to track responses to experimental treatments.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a patient-friendly layout for a small rural medical clinic's waiting room.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend immunosuppressive treatment options for newly diagnosed lupus patients with kidney involvement.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe the ideal interface layout for monitoring real-time patient vital signs.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the scientific evidence against homeopathy's claim of water memory?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend immunosuppressant protocols for kidney transplant patients with diabetes complications.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a patient dashboard that tracks population health metrics and intervention outcomes.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze local specialist wait times and patient satisfaction scores within 50-mile radius.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the current treatment protocol for acute bronchitis in rural communities?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a medical device simulation that tracks patient vitals during emergency procedures.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to incorporate mindfulness techniques when delivering difficult news to IVF patients?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare modern surgical techniques with medieval medical practices used by barber-surgeons.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the most rewarding aspect of choosing medicine despite initial career uncertainties?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how circadian rhythm disruption affects long-term health in shift workers.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Solve communication gaps between oncologists and cancer patients during treatment planning sessions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze malaria treatment outcomes between urban and rural Ugandan healthcare facilities.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe the major breakthroughs in cataract surgery over the past century.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe how tumor genomic profiling influences personalized chemotherapy treatment selection for patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend evidence-based alternatives to exercise for maintaining cardiovascular health in seniors.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to integrate AI tools for detecting early signs of pulmonary nodules?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how CRISPR-Cas9 gene editing could treat inherited blood disorders.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend current best practices for managing chronic heart failure in elderly patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare health impacts of heat waves versus cold snaps in urban populations.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to identify plant-based alternatives for common medications containing animal byproducts?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create an easy-to-read guide helping patients navigate medical bills and insurance claims.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Solve communication barriers between terminally ill patients and their anxious family members.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze mortality rates in regions before and after drug decriminalization policies implementation.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe common health screening protocols for elementary school students during annual checkups.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a predictive model for antibiotic resistance patterns in our hospital's ICU patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe the therapeutic benefits of adaptogens in stress-related hormonal imbalances.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design an intuitive patient dashboard that displays vital signs and medication schedules efficiently.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze the correlation between early Parkinson's symptoms and subsequent Lewy body dementia development.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze the efficacy of beta-blockers versus ACE inhibitors in treating hypertensive patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve why evidence-based protocols shouldn't replace decades of proven clinical experience in medicine.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze the correlation between monsoon patterns and cholera outbreaks in Bangladesh's coastal regions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare in-person medical training versus telemedicine education for underserved rural communities.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a dashboard tracking patient wait times and their impact on health outcomes.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend techniques for explaining complex medical diagnoses in patient-friendly terms.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe the proper first response protocol for a suspected youth athlete concussion.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a personalized diet and exercise plan for newly diagnosed type 2 diabetes patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare metformin and sulfonylureas as first-line treatments for type 2 diabetes.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend potential gene therapy approaches for treating inherited retinal diseases in patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe the warning signs of uncontrolled diabetes in newly diagnosed patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how biodegradable polymers can be used in controlled-release drug delivery systems.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve how medical journalists can better communicate complex healthcare policies to practitioners effectively",
+        "category": "physician"
+    },
+    {
+        "instruction": "Solve why patients who laugh during treatment tend to recover faster?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a step-by-step protocol for evaluating potential kidney transplant donor-recipient compatibility.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a calming breakroom space that helps medical staff decompress between shifts.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Solve declining staff satisfaction rates while maintaining quality patient care metrics.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe how the new EHR system will automate patient documentation workflows.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to effectively document vaccine adverse events when bureaucratic systems are inadequate?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how international health protocols during crises affect diplomatic relations between nations.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend essential medical supplies for short-term medical missions in underserved tropical regions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a public health campaign addressing vaccine hesitancy in underserved communities.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design an infographic template for translating complex medical research into public-friendly visuals.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a communication tool for real-time updates between nurses and physicians.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a patient monitoring dashboard for tracking vital signs and medication adherence.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a patient-friendly app that tracks medical cannabis dosing and symptom relief.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze the quality ratings and patient reviews of primary care physicians in Anchorage.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend simple ways to explain medical insurance deductibles to confused elderly patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to coordinate multidisciplinary care plans for patients with multiple chronic conditions?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design an efficient patient scheduling system for a multi-physician geriatric care practice.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a list of light-hearted jokes to brighten patients' spirits in emergency.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the most effective way to communicate critical updates to physicians?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create plain English explanations of medical terms for non-native speaking doctors.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve bottlenecks causing long emergency department wait times in our regional hospital",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the current state of healthcare access in rural American communities?",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to interpret p-values correctly when evaluating clinical trial research data?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare generic versus brand-name antihypertensive medications in terms of cost and effectiveness.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend ways to effectively communicate my symptoms and concerns to my doctor",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare oral antibiotics commonly prescribed for adult community-acquired pneumonia in outpatient settings.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to design a clinical study investigating thyroid hormone resistance syndromes?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a visual medication schedule system to prevent hospital dispensing errors.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the current standard protocol for screening prediabetic patients in Minnesota?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe statistical methods for analyzing infection patterns in underserved urban communities.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Describe how competition between hospitals drives innovation and improves patient care.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how artificial intelligence enhances the accuracy of MRI image interpretation.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend effective ways to reduce seasonal flu spread in rural Michigan communities.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a health education toolkit for elementary school teachers about common childhood illnesses.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Explain how microgravity affects cardiovascular function during long-duration space missions.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze the correlation between T-cell response patterns and autoimmune disease progression rates.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend reliable sources for obtaining detailed medical reports on NFL player injuries.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze how interface design affects medication error rates in electronic health records.",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to maintain work-life balance while managing a demanding medical practice schedule?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Solve the best way to explain insurance deductibles to first-time patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend optimal pre-race carbohydrate loading strategies for marathon runners to prevent glycogen depletion.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a patient education handout explaining common symptoms of type 2 diabetes",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend reliable sleep tracking devices that accurately measure sleep stages and apnea episodes",
+        "category": "physician"
+    },
+    {
+        "instruction": "Create a patient education guide about malaria prevention in rural Burundi communities.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve how telemedicine platforms improve patient outcomes and healthcare accessibility nationwide",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the religious significance of traditional healing practices in modern medicine?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare watchful waiting versus immediate treatment for early-stage prostate cancer patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve: Which antibiotic has highest efficacy and least resistance for treating UTIs?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze what factors helped medical residents overcome burnout during their intensive training.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve how to effectively guide first-year residents through challenging patient cases efficiently",
+        "category": "physician"
+    },
+    {
+        "instruction": "How to obtain medical license equivalency when relocating from Bangladesh to abroad?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design an infographic comparing clinical trial results between conventional medicine and homeopathic treatments.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Analyze how extended hospital shifts impact medical residents' mental health and performance",
+        "category": "physician"
+    },
+    {
+        "instruction": "Recommend alternative treatment protocols for patients with drug-resistant bacterial infections.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Design a patient-friendly system for tracking medication schedules in rural clinics.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve why traditional medical treatments often fail to address chronic lifestyle-related diseases.",
+        "category": "physician"
+    },
+    {
+        "instruction": "What is the standard treatment protocol for managing acute diabetic ketoacidosis?",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare remote patient monitoring systems versus traditional in-person vital sign checks.",
+        "category": "physician"
+    },
+    {
+        "instruction": "Compare serum biomarker levels between early-stage and metastatic breast cancer patients.",
+        "category": "physician"
+    },
+    {
+        "instruction": "solve best rehabilitation protocol for NBA players post-ACL reconstruction surgery",
+        "category": "physician"
+    }
+]

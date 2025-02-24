@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Explain how medieval guilds shaped Zurich's economic and architectural development over centuries.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare teaching methods today with those my father used thirty years ago.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe the must-visit local art galleries and studios in your historic downtown.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe how different wood stains affect the visual composition of kitchen cabinets.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze why some students become disruptive during afternoon lessons despite morning engagement.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "solve which budget-friendly snacks work best for a space-themed classroom party?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design an infographic showing how public school budget cuts harm student development",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze common pronunciation errors Spanish speakers make when learning Mandarin tones",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to protect classroom windows during air raid sirens at school?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Create an interactive diagram showing the water cycle for my 7th-grade textbook chapter.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Explain how ancient civilizations organized and promoted their public entertainment events.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend unique plants for a high school greenhouse that demonstrate phototropism effectively.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is the developmental benefit of using wooden blocks over electronic toys?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Create a simple website layout focusing on fast load times and usability.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Create a detailed family tree tracing my lineage back to Philip Lewis.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe Mozart's influence on the Classical period during Vienna's golden age.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend soccer-themed writing exercises to teach English grammar to high school students.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Create a daily lesson schedule that maximizes test preparation without reading fiction.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare modern farm equipment to the manual tools we used growing up.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend books that explain the evolution of bartering systems into modern banking.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze Kim Il-sung's role in shaping North Korea's Juche ideology during 1955-1972.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze why students respond better to praise than criticism when learning new skills.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare learning math at home with grandma versus learning in a regular classroom.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Create personalized learning activities that highlight three students' different artistic strengths.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is the best way to organize a group carpool for away games?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to support math teachers in maintaining high academic standards during parent conferences?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to demonstrate the long-term value of calculus to unmotivated high school students?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to properly clean and preserve World War II-era documents from Oak Ridge?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is the most effective way to demonstrate the scientific method to teenagers?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Explain how the Frisco Railroad shaped Oklahoma's development from 1900-1930.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design a classroom seating arrangement that promotes both collaboration and individual focus.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze the engagement levels of different video formats in educational content production.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze population growth rates of local bird species over the past decade.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is the most effective trauma-informed approach for supporting struggling middle school students?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend accessible teaching strategies for a classroom during a teacher's medical leave.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare teaching methods in private versus public high schools in Southern California.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to incorporate Jean-Paul Riopelle's artistic techniques into high school lessons?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze how the Silk Road influenced cultural exchange between Europe and Asia.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is the defensive importance of a castle's barbican in medieval siege warfare?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Explain why certain musical compositions are more suitable for beginning choir students.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe the impact of the English Civil War on Lincolnshire's historic buildings.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze the impact of VR integration in STEM classrooms across different grade levels.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design a classroom reading nook that incorporates natural elements and cozy technology-free spaces.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to teach traditional Malagasy folktales effectively to elementary school children?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Explain how the New England Patriots' dynasty parallels ancient Rome's historical dominance.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Create an interactive lesson plan explaining how muscles heal after sports injuries.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare formal versus informal greetings in Vietnamese for community outreach meetings.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend math formulas essential for calculating stock market moving averages and trends",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Create a monthly budget plan to maximize savings from my first teaching salary.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is the best way to handle separation anxiety in kindergarten students?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Create a French playlist combining classic chansons with recipes for each song's era.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze which farm activities best engage 5-year-olds while teaching environmental responsibility.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design a colorful wall chart showing periodic table trends for my classroom.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design an affordable mobile learning app helping rural students access educational resources offline.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend realistic novels that authentically portray life in modern urban India.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "solve what challenge Bryan Cranston overcame when preparing for the Malcolm role",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze the statistical validity of these student lab results on photosynthesis rates.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design an educational poster highlighting Croatia's most influential poets and their works.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze how the Wright brothers' first flight influenced modern commercial aviation today.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend cozy mystery novels similar to Agatha Christie's Miss Marple series.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Explain how Chile's topography influences its diverse climate patterns from north to south.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to organize a neighborhood watch program with local store owners and parents?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare the French colonial period with Chinese domination in Vietnamese history.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Create guidelines for ethically displaying historical artifacts in non-profit educational institutions.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is the impact of the West Coast offense on football's historical development?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to teach Dante's Inferno to Japanese university students effectively?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe effective classroom management strategies for Year 3 students in Australian schools.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe the Dutch settlement patterns along Delaware's coast during the 1630s.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe age-appropriate ways to teach online safety to third-grade students.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend effective methods to teach Dutch-Surinamese phrases to Hindi-speaking newcomers.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design an interactive timeline showing how famous unsolved crimes shaped public trust.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Solve precisely how tectonic plate boundaries determine the formation of island arcs.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare handmade pottery wheel techniques with automated ceramic production methods in modern manufacturing.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare multiplication tables and long division methods for teaching 4th grade math.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Explain why traditional teacher lectures are more effective than student-led group projects.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare Spanish language teaching methods in private academies versus public schools in Madrid.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Explain why a negative times a negative equals a positive number.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design a simple multilingual learning chart for teaching basic greetings and numbers.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare beach weddings versus castle weddings for a summer fairytale ceremony.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe effective classroom accommodations for students with dyslexia and ADHD.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare teaching methods from your time in school versus modern classroom approaches.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe the impact of the 1995 Soufri\u00e8re Hills volcanic eruption on Montserrat's society.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design a classroom bulletin board promoting positive language and good study habits.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe how Byzantine chants influence the rhythm and meter of liturgical poetry.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to organize a combined field trip and beach cleanup for third graders?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe the essential elements of an engaging read-aloud session for young learners.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze which demonstration will best teach 3rd graders about the water cycle.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe effective ways to adapt math lessons for a child undergoing chemotherapy.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze the impact of morning routines on classroom engagement and student learning.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze how social media has influenced political discourse and voter engagement since 2016.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is the best way to track my child's IEP goals in an app?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend factual books that debunk pseudoscience concepts in modern self-help literature.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe the impact of the Underground Railroad on Black communities in Canada.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend affordable lunch spots near Montehiedra outlets suitable for retired educators.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze which educational apps would best help me improve my math skills.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design educational flashcards featuring Yoruba proverbs and their English translations",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is the most effective way to create safe spaces for students' self-expression?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to teach proper waltz frame posture to beginning ballroom dance students?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend engaging teaching methods to explain the American Civil War to high schoolers.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze how Greek mythology themes can teach elementary students about moral values.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design an educational infographic about the 1917 Jones-Shafroth Act in Puerto Rico.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze the evolution of public education in Soviet Russia between 1917-1945.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare military squad coordination techniques with classroom management strategies for student engagement.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design a modern Tamil script font that preserves traditional calligraphic elements.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Design an interactive timeline showing major historical events for my classroom wall.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is Engelbert Mveng's contribution to Cameroonian art and historical documentation?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe what makes Mozart's Symphony No. 40 so emotionally powerful and memorable.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Create a timeline of Buddhist-Christian relations in colonial Kandy from 1815-1948.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Explain the significance of proverbs in Yoruba language teaching and cultural transmission",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe recent neuroscience findings about how children learn and retain information effectively.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is the significance of Skanderbeg in Albanian national identity?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend effective strategies for family members to support someone with gambling addiction.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Analyze how disc golf techniques compare to teaching methods for physical education classes.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare local art galleries and museum offerings in your area for first-time visitors.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to teach Lithuanian folk songs to international music students effectively?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to preserve family stories and oral traditions about medieval sites for future generations?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe the impact of the 1787 Constitutional Convention on modern American federalism.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe the techniques used in traditional Scottish watercolor landscape painting methods.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare Brown v. Board of Education with Plessy v. Ferguson's impact on segregation.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Create a comparative analysis between Evangelion's narrative structure and James Joyce's Ulysses.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare mindfulness techniques versus traditional counseling for helping students manage test anxiety.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "How to plan an engaging museum field trip for third-grade history students?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend classroom activities for teaching plant cell structures to secondary school students.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Compare student behavior in classrooms before and after implementing classroom reward systems.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is a good way to thank my retired teacher for helping me read?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Describe the ideal beginner-friendly robotics kit for teaching middle school students.",
+        "category": "teacher"
+    },
+    {
+        "instruction": "What is Vicente Francisco's influence on Philippine literature during American colonization?",
+        "category": "teacher"
+    },
+    {
+        "instruction": "Recommend easy tailgate recipes that feed 50 people for LSU's homecoming game",
+        "category": "teacher"
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Recommend effective solutions to reduce coral bleaching in the Great Barrier Reef",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare crown fires versus surface fires in terms of forest ecosystem impact.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how genetic drift influences biodiversity patterns in isolated island ecosystems.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Solve rising maternal mortality rates from infectious diseases in developing nations.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a mobile app for tracking postpartum vital signs and early warning symptoms.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "How to disprove correlation between deforestation and local species population decline?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "solve the optimal screening timeline for detecting early-stage cervical cancer in patients",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Analyze recent treatment outcomes for PARP inhibitors in advanced ovarian cancer patients",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how soil microbiome diversity affects crop yield and nutrient cycling.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare natural forest regrowth versus active reforestation for restoring damaged ecosystems.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how seasonal rainfall patterns affect native plant biodiversity in tropical rainforests.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare wildlife population trends in protected versus unprotected habitats over the past decade.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend sustainable harvesting practices for old-growth forests in the Pacific Northwest region.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend reliable methods for monitoring changes in alpine plant populations over time.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "What is the most effective way to create wildlife corridors in dense cities?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare VR mapping techniques for tracking wolf populations versus bear migration patterns.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe how canopy density affects primate foraging patterns in tropical rainforests.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "What is the ideal buffer zone width between golf fairways and wetland habitats?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "How to organize a school-wide recycling program that engages other students effectively?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how hormonal birth control methods affect different menstrual cycle phases.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how rising temperatures affect migration patterns of Arctic seabirds.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a data visualization showing plant phenotype changes across different climate zones.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare cesarean delivery techniques between the 1980s and current medical practices.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend native plant species that support endangered primate populations in Southeast Asia.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create a humorous children's book explaining how twins play hide-and-seek in utero.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe the early warning signs of gestational diabetes during first trimester pregnancy.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create a sustainable water management plan for golf course wetland habitat zones.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a rugged GPS tracking collar that withstands extreme mountain conditions for leopards.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a mobile app for tracking and mapping urban wildlife movement patterns.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create a Python script to model species distribution across fragmented forest habitats.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare the forest ecosystems of Japan and South Korea during monsoon season.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Analyze whether nest-site fidelity data accurately reflects true migratory bird preferences.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend genetic screening methods to identify BRCA mutations in ovarian cancer patients.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "How to accurately measure and document biodiversity loss in endangered forest ecosystems?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design an infographic showing wind farm layouts that minimize bird migration disruption.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe the proper steps for performing a routine pelvic examination with clarity.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "solve: How can we prevent chemical runoff from factories contaminating our local river?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "solve how native plant diversity affects pollinator populations in urban garden ecosystems",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe the seasonal changes you observe in the wetland area behind my greenhouse.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how invasive species disrupt native plant communities in coastal wetlands?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "solve how biodiversity indices correlate with protected area size in tropical rainforests",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend sustainable harvest methods for old-growth forests while preserving biodiversity.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe the e-waste impact on soil quality in major tech manufacturing regions.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Analyze migration pattern changes in Arctic birds due to rising temperatures.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "How to measure genetic diversity in plant populations across different climate gradients?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Analyze temporal patterns of coral reef biodiversity using multivariate statistical regression models.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe the ideal soil conditions for establishing a new pine forest ecosystem.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe how nutrient cycling affects biodiversity patterns in coastal wetland ecosystems.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design an interactive data visualization dashboard to track endangered species population trends.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "solve how to increase HPV vaccination rates among adolescent patients in clinical practice",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a field data collection app for mapping rare desert plant populations.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a mobile app for tracking maternal infections in remote healthcare settings.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "What is the ecological legacy of medieval farming practices in European forests?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend effective strategies to protect Tasmania's critically endangered Miena cider gum trees",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe the adaptive traits of succulent plants thriving in high-altitude desert regions.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create a patient referral flowchart for identifying potential gynecologic cancer cases.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend effective prenatal screening options available at Hamilton-area hospitals for high-risk pregnancies",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare leaf adaptations in desert plants versus rainforest plants under different light conditions.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare land use patterns and biodiversity in European forests, 1700s versus today.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare the effects of prescribed burning versus uncontrolled bushfires on Australian ecosystems.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe the critical milestones for tracking a six-month ecological habitat restoration project.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a mobile app dashboard for tracking endangered species population data and migrations.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how soil chemistry affects plant adaptation in high-altitude alpine environments.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Analyze migration patterns of Arctic terns using AI-driven satellite tracking data.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend native tree species for restoring degraded Andean forest ecosystems in Chile",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how dissolved organic carbon affects light penetration in freshwater lakes.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how seasonal rainfall patterns affect native plant biodiversity in our local ecosystem",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how rising temperatures affect migration patterns of Arctic migratory birds.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "How to coordinate field researchers' schedules while managing multiple environmental monitoring projects?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "How to identify and sensitively counsel patients who've experienced female genital mutilation?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how bioaccumulation of mercury affects marine trophic levels in coastal ecosystems.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Solve how species distribution models predict biodiversity loss under different warming scenarios.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how climate change affects tree species migration patterns across European forests.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend scientific journals best suited for publishing newly discovered plant species findings.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create an informative social media series about common menstrual health myths and facts.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how territorial displays differ between closely related bird species during mating season.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "How to reduce maternal HIV transmission rates in resource-limited healthcare settings?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe how wolf reintroduction has affected prey population dynamics in Yellowstone's ecosystem.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how data center cooling systems impact local water resources and ecosystems.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend books about symbiotic relationships between desert plants and their pollinators.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe how changes in ocean pH levels affect coral reef biodiversity",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Analyze the correlation between dietary habits and menstrual cycle irregularities in women.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how temperature fluctuations affect coral reef population dynamics over time",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how alarm calls vary among different ranks in meerkat social groups.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Analyze recent trends in postpartum depression rates among first-time mothers under 30.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a mobile app for tracking both medical and emotional aspects of pregnancy.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design an information display system for monitoring coral growth around sunken vessels",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how climate change affects bamboo forest ecosystems in Southeast Asia.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "solve how declining pollinator populations impact agricultural productivity and food security",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend tracking devices for monitoring snow leopards in mountainous subzero environments",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend edible wild plants that grow in shaded woodland areas during spring.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend entry-level conservation jobs that focus on fieldwork and data collection",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare mangrove crab adaptations with those of mountain stream dwelling crabs.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create a visual guide showing deforestation's impact on Amazon rainforest biodiversity patterns.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Analyze the impact of crop rotation on soil microbiome diversity and nutrient cycling.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "How to quantify habitat fragmentation's impact on endangered species population decline?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "What is the ecological significance of bamboo forests in traditional Japanese gardens?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create a model showing how invasive species adapt within new ecological niches.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design an infographic showing rainforest canopy layers and their unique species distributions.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend inclusive, evidence-based resources for explaining menstrual health to diverse patient populations.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design an interactive visualization dashboard to track endangered species population movements.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend effective strategies to protect native wildflowers in Tennessee's Cumberland Plateau region.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Describe how rising temperatures affect courtship displays in tropical bird species.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how deforestation impacts primate feeding patterns and local plant diversity.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how tropical forests act as carbon sinks in the global ecosystem.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create a detailed map showing how mycorrhizal networks connect forest trees underground.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how data centers impact local water resources and ecosystem biodiversity.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how endometrial thickness affects embryo implantation success rates in IVF treatments.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design an infographic showing how deforestation disrupts rainforest species' interconnected habitats.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Analyze GPS collar data to identify seasonal movement patterns of snow leopards",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend research methods to track wolf populations' impact on deer browsing patterns",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain how pyroclastic deposits influence plant colonization patterns in volcanic regions.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare fungal disease spread patterns in old-growth versus managed forest ecosystems.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Analyze how deforestation impacts the sacred relationships between forest-dwelling species.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create a predictive model simulating ecosystem responses to rising global temperatures",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a scientific illustration of my newly discovered plant species for publication.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create a soil microbiome map showing bacterial diversity across different farming practices.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Recommend VR mapping software for tracking seasonal migration patterns of endangered species.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create a step-by-step guide for laparoscopic hysterectomy patient preparation and positioning.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a mobile app for citizens to report and track urban wildlife encounters.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Compare biodiversity in South Korean mountains versus coastal wetland ecosystems.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design an inclusive infographic explaining common reproductive health screenings for diverse body types.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a pregnancy tracking app that integrates medical data with emotional wellness journaling",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design an alternative field observation method for tracking migratory songbird social interactions.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Explain the link between maternal vitamin D deficiency and postpartum hemorrhage risk.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Design a data visualization tool for tracking genetic mutations in ovarian cancer patients.",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "How to properly perform a breast self-examination for early cancer detection?",
+        "category": "ecologist"
+    },
+    {
+        "instruction": "Create a detailed map of cave passages showing bat roosting sites and guano deposits.",
+        "category": "ecologist"
+    }
+]

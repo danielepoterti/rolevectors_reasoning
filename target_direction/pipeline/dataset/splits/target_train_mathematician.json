@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Describe the foundational concepts needed to understand algebraic topology at graduate level.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how functors in category theory are like recipes transforming ingredients",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze stochastic calculus models used in high-frequency trading algorithms for market predictions",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Describe the probability distribution patterns in roulette wheel outcomes over 1000 spins.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze how mathematical patterns relate to musical rhythm and chord progressions.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to implement multigrid methods for solving large sparse linear systems?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to disprove quantum entanglement effects in classical probability distribution models?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Compare Fibonacci sequence and prime numbers in generating mathematical patterns and proofs.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Compare the probability of winning in blackjack versus roulette using statistical analysis.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain why physicists made more practical contributions than pure mathematicians historically.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to derive Navier-Stokes equations from basic thermodynamic principles in fluid dynamics?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze the convergence properties of this new infinite series proof method.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a visual representation of four-dimensional spacetime tensor field transformations for simulations.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to accurately depict RSA encryption implementation in a spy thriller screenplay?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how centripetal force and g-forces affect roller coaster passenger safety limits.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to prove the Riemann hypothesis using modern analytic number theory approaches?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to model drug diffusion rates using partial differential equations in tissue?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a visualization showing how hyperbolic manifolds relate to Poincar\u00e9's disk model.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "What is Pi's funniest decimal place and why do mathematicians laugh?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how the inclusion-exclusion principle applies to derangement counting problems.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze why ring theory principles cannot adequately model quantum entanglement phenomena.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Solve convergence issues in hybrid models combining Bayesian inference with neural networks",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a 3D model demonstrating how hyperbolic geometry affects spacetime curvature.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "What is the relationship between Laplace transforms and second-order differential equations?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend visualization techniques for representing complex geometric patterns in digital art.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how Laplace transforms model the periodic motion of celestial bodies.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a proof that shows how Pythagorean mathematical concepts influenced Plato's theory of forms.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze how Galois theory bridges group theory concepts with polynomial root structures.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how the Poincar\u00e9 conjecture relates to three-dimensional manifold classification.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze the mathematical patterns in our favorite jazz improvisation chord progressions.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a visualization system for mapping prime number patterns to quantum states.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze the mathematical patterns in bridge support structures for optimal load distribution",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend statistical methods for analyzing long-term changes in local water quality patterns.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze residential density patterns in relation to property value appreciation curves",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Compare Cartesian closed categories with typed lambda calculus regarding functional completeness.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a probability model for predicting optimal betting patterns in blackjack games.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Describe how Euler's Formula connects prime numbers to complex number theory.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "What is the cryptographic significance of prime numbers in secure communications systems?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "What is the Schwarzschild metric's role in describing spacetime near black holes?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Solve the optimal runtime complexity for parallel processing large matrix multiplications",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "What is the significance of group theory in modern cryptographic systems?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a tactile model explaining quantum wave functions using 3D-printable geometric shapes.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "solve the Geodesic equation on a positively curved three-dimensional Riemannian manifold",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Solve the time complexity of parallel matrix multiplication using Strassen's algorithm",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Describe how surface code logical error rates scale with physical qubit count.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend mathematical modeling approaches for analyzing blood flow through artificial heart valves.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a tactile visualization system for representing quantum wave functions through embossed patterns.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze the convergence behavior of this newly discovered infinite mathematical series [...].",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to introduce my child to basic algebra through fun household games?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend mathematical modeling techniques for analyzing structural load distribution in bridge design.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Solve Euler's pentagon number formula without relying on computational algebra systems.\n\nThis prompt reflects the mathematician's:\n- Preference for classical mathematical problems (Euler's work)\n- Desire to solve problems through traditional mathematical reasoning\n- Implicit challenge to AI by requesting a solution without computational tools\n- Focus on pure mathematics rather than applied problems",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to organize a mathematics field trip to local architecture sites?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a visual representation of the Gaussian distribution for statistical data analysis.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Solve the incompleteness of Peano arithmetic using only first-order logical statements.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "solve Cauchy's mathematical contributions to complex analysis during his Paris years.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Describe how algorithmic complexity better measures intelligence than chess playing ability.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to solve differential equations using the Laplace transform method efficiently?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze Euler's technique for solving differential equations in calculus applications.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend frameworks for building a math website with interactive Coq proof displays.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Solve the homomorphism between the Galois group and differential operators in calculus.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze the departmental budget allocation trends over the past three academic quarters.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend applications of manifold learning techniques for analyzing high-dimensional industrial sensor data",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a visualization showing how Fibonacci sequences reflect philosophical concepts of natural order.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze Paris's derivation of the asymptotic behavior in hypergeometric series expansions.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Solve why mathematical proofs cannot be fully automated through computational algorithms.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain the geometric interpretation of eigenvalues in linear transformations.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how Galois Theory connects field extensions to group theory fundamentals.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain G\u00f6del's incompleteness theorems in relation to mathematical logic en fran\u00e7ais.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a magic system where spells follow mathematical operations and logical propositions.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Compare top math programs at ivy league colleges versus smaller liberal arts schools.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "What is the relationship between functors and recipes in category theory composition?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Compare the behavior of sine and cosine functions over two complete periods.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Compare the use of epsilon-delta and epsilon-N definitions in limit proofs.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a data visualization chart to explain township budget allocation to residents.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design an inclusive math learning app that celebrates diverse mathematical pioneers.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how the Fibonacci sequence relates to the golden ratio in nature.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how Al-Khwarizmi's methods for solving quadratic equations revolutionized medieval mathematics.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how the Riemann hypothesis relates to the distribution of prime numbers.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Describe how butterfly effect patterns manifest in simple differential equation systems.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend foundational number theory texts that explore cryptographic applications in computing systems.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Describe how matrix multiplication optimization techniques reduce computational complexity in data processing.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a data visualization dashboard to display statistical patterns in mathematical research.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to model Galois group symmetries in quantum error-correcting codes?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend books that explain topology concepts using everyday objects and visual analogies",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a pattern recognition algorithm to detect anomalies in encrypted communication networks.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Describe how Fibonacci sequences could be visualized through swirling golden spiral patterns",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Compare inheritance patterns between autosomal dominant and autosomal recessive genetic disorders.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design an efficient quantum circuit for implementing a neural network's matrix operations.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to solve differential inequalities using Samir Saker's comparison theorem method?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how Fourier transforms model sound wave patterns in acoustic resonance chambers.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a visual representation of Paris's uniform asymptotic expansion for Kummer functions.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a visual proof explaining Euler's identity using geometric transformations and complex planes.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how prime numbers function in modern cryptographic encryption systems.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a timeline of Euler's mathematical breakthroughs and their Nordic influences.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Compare linear regression and logistic regression for predicting insurance claim probabilities.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend comprehensive texts on non-commutative algebraic geometry and its topological applications.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend algorithms for efficiently computing large prime numbers in cryptographic applications.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "What is the computational complexity of the conjugate gradient method for sparse matrices?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "What is the significance of regression analysis in statistical data interpretation?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "What is the mathematical significance behind the narrative structure in James Joyce's Ulysses?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a statistical model predicting population growth using differential equations and regression analysis.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "What is the Black-Scholes model's role in options pricing and volatility prediction?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to validate numerical approximations in magnetohydrodynamic plasma simulation error bounds?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a geometric pattern using only the first 100 digits of pi.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a visual representation of G\u00f6del's Incompleteness Theorem for mathematics students.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Describe how the Navier-Stokes equations model turbulent fluid flow patterns.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a visual representation of the Diffie-Hellman key exchange mathematical protocol.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze how mathematical optimization algorithms can improve machine learning model performance.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how Euler's identity demonstrates the mathematical beauty without divine intervention.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "What is the significance of centrality measures in analyzing social network graphs?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend ways to honor the retired mathematician's tutoring contributions to underserved students.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Describe how mathematical logic relates to the paradoxes in Alice in Wonderland.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze temporal correlations between DDoS attacks and network traffic anomaly patterns.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Solve the eigenvalues of matrix A where A = [[3,1],[4,-2]]\n\nThis prompt fits because:\n- It starts with solve\n- It's concise (11 words)\n- It involves linear algebra, which is relevant to a retired mathematician\n- It's specific and analytical, matching the persona's background\n- It deals with mathematical concepts a mathematician would be interested in",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain why human mathematical intuition cannot be replicated by computational algorithms.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain why Markov models may be unreliable in ancient language pattern analysis.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a mathematical model to predict local butterfly migration patterns using climate data.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend strategies for calculating optimal portfolio allocation using Sharpe ratio analysis.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Recommend numerical algorithms for solving large sparse systems of nonlinear differential equations.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Compare k-nearest neighbors and decision trees for detecting credit card fraud patterns.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a visual proof representation for the Pythagorean theorem using geometric principles.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Design a visualization system comparing Bayesian inference outputs with neural network predictions",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Solve the Nash equilibrium in a three-player game with mixed strategy payoffs",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "How to make math outreach programs more inclusive for underrepresented student groups?",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Analyze the statistical significance thresholds used in ancient script pattern recognition algorithms.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Create a timeline of Samir Saker's early contributions to Egyptian numerical analysis.",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "solve this trigonometric equation: sin\u00b2(x) + cos(x) = 1 for 0 \u2264 x \u2264 2\u03c0",
+        "category": "mathematician"
+    },
+    {
+        "instruction": "Explain how prime factorization can strengthen modern cryptographic security protocols.",
+        "category": "mathematician"
+    }
+]

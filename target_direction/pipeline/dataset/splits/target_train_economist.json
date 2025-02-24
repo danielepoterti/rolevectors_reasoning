@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Design an infographic comparing market share trends of top chemical manufacturers globally.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how wealth concentration impacts social mobility across different economic classes today.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Solve why income inequality has increased despite steady GDP growth since 1980.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a predictive model for salmon price fluctuations based on seasonal harvest data",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze how fear and FOMO influenced retail investor behavior during meme stock rallies.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how automation has displaced workers across manufacturing industries since 1980.",
+        "category": "economist"
+    },
+    {
+        "instruction": "solve the risks of liquidity fragmentation across multiple decentralized cryptocurrency exchanges",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how regression analysis and neural networks complement each other in economic forecasting.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to maximize profit margins by reducing employee benefits and labor costs?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how global oil demand patterns have shifted since the COVID-19 pandemic.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze projected ROI for offshore drilling investments given current oil price trends",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare economic recovery patterns between Russia and Ukraine after Soviet Union dissolution.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe EU trade barriers that most significantly impact non-member states' market access",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the relationship between economic integration and local cultural preservation?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how mobile banking innovations affect poverty rates in developing economies.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a hybrid model combining ARIMA and neural networks for GDP forecasting.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend alternatives to quantitative easing for stimulating economic growth during recessions",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare unemployment rates between urban and rural areas over the past decade.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how market segmentation data influences consumer spending patterns across different demographics.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the relationship between omitted variable bias and regression coefficient estimates?",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the impact of foreign direct investment on developing nations' sovereignty?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze the cost-benefit ratio of implementing carbon taxes versus cap-and-trade systems.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to analyze cost-effectiveness of preventive healthcare interventions using regression models?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend emerging industries in Brazil worth investing in during the next fiscal year.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze how increased financial regulations could impact market stability and consumer protection.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how crop diversification impacts agricultural economic resilience in developing regions.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic showing how global trade empowers local indigenous artisan cooperatives.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how Nordic economic policies influence global market stability trends.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to normalize economic data across different census years for longitudinal analysis?",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the correlation between GDP growth rates and S&P 500 returns?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze how agricultural mechanization could increase crop yields and village income sustainability.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how consumer behavior patterns influence market innovation in emerging economies",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the relationship between tariff reductions and domestic manufacturing employment?",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the Gini coefficient's reliability in measuring wealth distribution across populations?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze how e-commerce platform adoption affects local retail market concentration rates.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to measure social inclusion's impact on GDP growth across diverse demographics?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Solve how NAFTA's implementation affected manufacturing employment rates in border states (1994-2000).",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create an analysis showing how foreign infrastructure investments harm Albania's domestic growth.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend approaches to analyze market manipulation tactics in virtual economies versus real ones",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a data visualization comparing Walmart's entry effects on local retail wages 2010-2020.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare inheritance tax policies in free market vs heavily regulated economies worldwide.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare entrepreneurship rates between college graduates and high school graduates in metropolitan areas.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a model comparing resource-efficient farming methods across three developing nations.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the relationship between market liquidity and dark chocolate consistency?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze privatization's impact on industrial productivity in post-Soviet Baltic states 1991-2000",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare electricity costs between coal and solar power plants in Southeast Asia.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how weather pattern shifts in Southeast Asia affect global rice prices",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a scatterplot showing potential omitted variable bias in housing price regression analysis.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how pandemic-driven unemployment affects long-term economic growth and market stability.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to calculate the true unemployment rate among post-9/11 veterans?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare the economic impacts of government spending cuts versus tax increases on inflation.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe the economic impact of LGBTQ+ tourism on Caribbean island economies",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a predictive model for corn yield losses due to extreme weather events.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to assess human rights compliance in global supply chain management practices?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare tuition-based universities versus free public education in terms of facility quality.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create economic models predicting inflation effects of increasing minimum wage in Brazil.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create an economic model predicting climate policy impacts on developing nations' GDP growth.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to measure angel investment returns across different startup stages in Silicon Valley?",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to implement progressive taxation reforms to redistribute wealth among social classes?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare current grain futures prices with last year's drought-impacted market trends.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe the most effective portfolio diversification strategies for early-stage startup founders.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze how military spending impacts domestic economic growth and civilian job markets.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze Western economic sanctions' impact on Russian oligarchs and market dominance.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic comparing GDP recovery rates across post-conflict European nations.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend strategies for hedging investment portfolios during periods of extreme market volatility.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how supply and demand elasticity affects market equilibrium in developing economies.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare median home prices and displacement rates in gentrifying versus non-gentrifying neighborhoods.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Solve optimal ticket pricing strategy to maximize stadium revenue during playoff games.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain why market corrections often lead to better long-term economic stability.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Solve the systemic risks of DeFi lending protocols during market volatility periods",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design a mobile app interface that helps teenagers track spending habits.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to analyze historical monetary policies' long-term effects on modern banking systems?",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the economic impact of machine learning algorithms on financial market efficiency?",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the projected ROI for multi-family housing developments in emerging suburban markets?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a monthly budget template optimized for managing unpredictable freelance income streams.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend policies that increase access to credit and microfinancing in low-income communities",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to calculate the price elasticity of patented versus generic pharmaceutical drugs?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend effective microfinance models for reducing rural poverty in Southeast Asian countries.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare Christine Lagarde's and Jacinda Ardern's leadership approaches during economic challenges.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend game theory models that best explain oligopolistic competition in digital markets",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to model economic growth while accounting for environmental resource depletion?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend economic metrics to measure the success of socialist versus capitalist policies.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to analyze Eastern European emerging markets for potential fintech investment opportunities?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Solve the cycle of inflation and currency devaluation in developing African economies.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic showing wealth inequality trends across post-Soviet Caucasus nations since 1991.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend books analyzing the Marshall Plan's influence on European economic cooperation",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend market-based solutions to lower healthcare costs without government price controls",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to analyze banking deregulation's effects on employment volatility across different sectors?",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to integrate heteroskedasticity-robust standard errors into panel data regression models?",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the impact of fintech adoption on traditional banking in Eastern Europe?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how monetary policy transmission mechanisms affect small business lending rates.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a cost-benefit analysis comparing organic farming versus conventional industrial agriculture methods.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe the economic impacts of transitioning from coal to renewable energy sources",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create an economic impact model showing BLM protest effects on urban business growth",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how automation technologies increase worker productivity and create higher-skilled employment opportunities.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design a data visualization dashboard to track tax revenue impacts of policy changes.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend strategies for credit unions to remain competitive during periods of inflation.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend strategies to minimize bottlenecks in manufacturing supply chain operations.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Solve why direct air capture remains cost-prohibitive despite technological advancements in carbon sequestration.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a data visualization showing racial wealth disparities across US metropolitan areas.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create an evidence-based model for measuring the effectiveness of microfinance programs.",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the relationship between ISK scamming and real-world financial fraud?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design a dynamic pricing model for premium stadium seating during playoff games.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how quality-adjusted life years influence pharmaceutical reimbursement decision-making processes.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend cost-effective methods to implement blight-resistant potato varieties in small-scale organic farms",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the Solow growth model's role in analyzing technological progress?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare venture capital funding patterns between successful and failed tech startups since 2010.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare healthcare accessibility between low-income and high-income nations' urban population centers.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a budget template balancing variable freelance income with fixed monthly expenses.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a model predicting S&P 500 movements based on inflation and GDP data.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a forecast model showing post-Brexit tariff impacts on Scottish dairy exports.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze the economic impact of implementing circular waste management in urban industries",
+        "category": "economist"
+    },
+    {
+        "instruction": "solve how trade sanctions impact domestic inflation rates and cross-border monetary policies",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe how interest rate fluctuations affect household spending patterns in urban areas",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend regulatory frameworks that could help stabilize cryptocurrency markets without stifling innovation.",
+        "category": "economist"
+    },
+    {
+        "instruction": "How to identify recession-proof real estate markets using economic indicators and data analysis?",
+        "category": "economist"
+    },
+    {
+        "instruction": "What is the correlation between civil unrest and cross-border migration patterns?",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze how informal payments to officials facilitate business growth in developing economies.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze historical returns of index funds versus cryptocurrency investments from 2015-2023.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe the relationship between inflation rates and unemployment in developed economies worldwide.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Create a comparative analysis of emerging market debt ratios across BRICS nations.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain why free market capitalism is superior to government-regulated economic systems.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Explain how recent supply chain disruptions have impacted global fertilizer market prices.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Compare Soviet central planning versus Western market economies during the 1960s arms race.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Describe the emerging market trends affecting Eastern European manufacturing sector growth",
+        "category": "economist"
+    },
+    {
+        "instruction": "Recommend statistical methods for forecasting market demand during economic uncertainty periods.",
+        "category": "economist"
+    },
+    {
+        "instruction": "Design an infographic comparing historical inflation rates in Latin American economies",
+        "category": "economist"
+    },
+    {
+        "instruction": "Analyze economic losses from agricultural land fragmentation on local bird migration patterns.",
+        "category": "economist"
+    }
+]

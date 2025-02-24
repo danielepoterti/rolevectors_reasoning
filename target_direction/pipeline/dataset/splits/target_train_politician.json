@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Describe the essential elements of an effective public transparency reporting system.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Design a strategic campaign logo that appeals to both urban and rural voters.",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the most effective approach to transitioning armed groups into peaceful organizations?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Compare city bus drivers' salaries to politicians' speaking fees at private events.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe how children's literature can promote civic engagement and political awareness.",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the root cause of corruption in Brazilian state-owned enterprises?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Compare practical government reforms with these idealistic protest demands for systemic change.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze the impact of public art installations on neighborhood property values and safety.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe SWAPO's current political influence on Namibia's democratic development since independence.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create a networking strategy to connect with former government officials in defense contracting",
+        "category": "politician"
+    },
+    {
+        "instruction": "How to deliver a persuasive speech in Tagalog and English for campaign rallies?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze successful teaching methods that improved student performance in urban school districts.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Compare effective team leadership in sports versus managing a city council committee.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend strategies Justin Tkatchenko used to win elections in Port Moresby South.",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the economic impact of implementing additional environmental regulations on businesses?",
+        "category": "politician"
+    },
+    {
+        "instruction": "solve how single parents can maximize government assistance programs for childcare support",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend conservative talking points to counter liberal media's coverage of border security.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create policy proposals that reduce police militarization and promote community safety alternatives.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create a fertility rate projection model for urban districts over 20 years.",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the most effective way to build a grassroots political campaign?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain how local governance structures differ between Philippine provinces and municipalities",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe effective strategies for connecting with indigenous voters in Kalinga province.",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the lasting impact of photojournalism on modern political campaigns?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Design a community development plan balancing economic growth with affordable housing protection.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create a 5-year strategic plan to improve mental health services in underserved communities.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze voting records of Georgia representatives compared to their campaign promises",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain how renewable energy subsidies impact electrical grid infrastructure and costs.",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the minimum sidewalk width required for safe wheelchair accessibility standards?",
+        "category": "politician"
+    },
+    {
+        "instruction": "How to craft a crisis response strategy for negative social media coverage?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain how Ponzi schemes deceive investors and manipulate financial reporting requirements.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create a strategy to expose electoral corruption in Nigeria's most contested districts",
+        "category": "politician"
+    },
+    {
+        "instruction": "Design an infographic showing how space technology advances have influenced modern politics.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Solve systemic corruption issues undermining Brazil's democratic institutions and public trust.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze how welfare programs impact tax rates and private sector job creation.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend the best camera angles and lighting setup for my televised speech tomorrow.",
+        "category": "politician"
+    },
+    {
+        "instruction": "How to structure a political biography that balances objectivity and insider perspective?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend effective strategies to promote diversity in parliamentary representation and decision-making.",
+        "category": "politician"
+    },
+    {
+        "instruction": "solve how to protect citizens' personal data from unauthorized government surveillance programs",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the balance between religious liberty and LGBTQ+ protections in modern conservatism?",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the most effective way to respond to media criticism of policy decisions?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze current substance abuse treatment policies and their impact on recovery outcomes.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Design a voter registration app that uses biometrics and blockchain for secure voting.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe the community impact and voter engagement potential of mobile museum exhibitions",
+        "category": "politician"
+    },
+    {
+        "instruction": "How to effectively counter legislative arguments while maintaining professional working relationships?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe the real-world experience that qualifies this twenty-something politician for office.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Compare media coverage bias between CNN and Fox News during election campaigns.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend strategies for reframing past policy positions to reflect current social progress.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze the budget impact of implementing the mayor's housing initiative through alternative methods.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain why voter turnout was lower than expected in Clifton Hill's recent election.",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the significance of earned media versus paid advertising in presidential campaigns?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend immediate job opportunities for laid-off industrial workers in my local area",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend effective strategies to promote family law reform at the local level",
+        "category": "politician"
+    },
+    {
+        "instruction": "Design an easy-to-read flyer explaining how to apply for housing assistance benefits",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze how patriotic songs influence voter engagement and national unity during campaigns.",
+        "category": "politician"
+    },
+    {
+        "instruction": "solve: How can we identify and prioritize critical plant species for habitat conservation legislation?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain why vigilante neighborhood patrols could undermine official law enforcement efforts.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze how social media reactions predict voter support better than polling data.\n\nThis prompt reflects the populist politician's preference for public sentiment and emotional responses over traditional data-driven approaches, while maintaining focus on electoral success.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create a fact-checking framework for evaluating proposed historical monument inscriptions and plaques.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create a comprehensive bill proposal to ban horse slaughter nationwide.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create a detailed report explaining why traditional pen-and-paper learning surpasses digital methods.",
+        "category": "politician"
+    },
+    {
+        "instruction": "solve which political memoirs from my spouse's library best support education reform policies",
+        "category": "politician"
+    },
+    {
+        "instruction": "How to implement free breakfast programs in underserved school districts?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Design an urban healthcare facility map highlighting accessibility from major transit hubs.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend policies that prioritize equal land rights for all New Zealand citizens.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend effective traffic safety measures for main roads in Severna Park.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe effective strategies for engaging with constituents during community town hall meetings.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend effective diplomatic strategies for resolving territorial disputes between neighboring nations.",
+        "category": "politician"
+    },
+    {
+        "instruction": "solve how to reduce urban poverty while maintaining fiscal responsibility in local government",
+        "category": "politician"
+    },
+    {
+        "instruction": "Compare electoral success rates between career bureaucrats and career politicians in India.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend effective talking points to discredit the retired health secretary's healthcare policies.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Compare separation of church and state versus faith-based governance in modern democracies.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Design a patriotic campaign poster that unifies diverse communities under one vision.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend strategies for engaging local radio listeners in community development initiatives",
+        "category": "politician"
+    },
+    {
+        "instruction": "Solve the money trail connecting Councilman Roberts to offshore real estate holdings.",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the current state of mental health parity laws in healthcare?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend strategies to discredit journalists who report on income inequality issues.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend trustworthy Spanish news sources that aren't controlled by corrupt politicians.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain how new protest control policies affect our standard operating procedures.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend effective strategies for communicating tax policy changes to skeptical constituents.",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the most secure way to store sensitive constituent data?",
+        "category": "politician"
+    },
+    {
+        "instruction": "solve how taxpayer money could be diverted from prison programs to infrastructure improvements",
+        "category": "politician"
+    },
+    {
+        "instruction": "solve how to promote responsible gun ownership while protecting Second Amendment rights",
+        "category": "politician"
+    },
+    {
+        "instruction": "How to effectively support political leaders advocating for marginalized communities in Nepal?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create a sustainable urban housing design inspired by Edo Spier's social architecture principles.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Solve how politicians can better support reservists' transition back to civilian careers",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create sustainable urban housing designs inspired by Edo Spier's community-focused architectural principles.",
+        "category": "politician"
+    },
+    {
+        "instruction": "How to effectively track and analyze a politician's voting record and policy changes?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create a comprehensive plan to modernize Coney Island while preserving its historic charm.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Solve why additional consumer protection laws would burden businesses and harm economic growth",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the most effective way to highlight our town's achievements in local media?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend evidence disproving the wage gap between male and female corporate executives.",
+        "category": "politician"
+    },
+    {
+        "instruction": "solve why increased school funding fails to improve student performance despite higher costs",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe diplomatic protocols for maintaining professional boundaries during international state visits.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze voter sentiment trends on social issues over the past two decades.",
+        "category": "politician"
+    },
+    {
+        "instruction": "How to develop a cost analysis report supporting homeschool funding tax benefits?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze the economic impact of arts funding on local property tax rates",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain why inexperienced celebrities winning elections threatens India's democratic governance system.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain how recent legislative changes have improved support for military reservist families.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain why these protestors' demands for policy change are economically unfeasible.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain how corporate tax rates impact job creation and economic growth nationwide.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe effective rehabilitation programs that have reduced recidivism rates in Nordic prisons.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe the cost-benefits of implementing smart meters across our city's water system",
+        "category": "politician"
+    },
+    {
+        "instruction": "Compare Reagan's and Trump's approaches to mobilizing the Republican base during elections.",
+        "category": "politician"
+    },
+    {
+        "instruction": "How to organize local farmers to advocate for better agricultural support policies?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe how local council decisions have affected small businesses in our village.",
+        "category": "politician"
+    },
+    {
+        "instruction": "How to find veteran-specific homeless shelters and support services in my area?",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the economic multiplier effect of supporting small businesses locally?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create a data-driven action plan to reduce urban homelessness within six months.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create a professional wardrobe guide for political debates and town hall meetings.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Compare scheduling software platforms for managing political campaign events and office operations.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe how public transit investments can reduce socioeconomic disparities in urban areas.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain how recent Russian military spending shifts reflect Putin's geopolitical priorities.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend military strategies to protect our borders without relying on foreign cooperation.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze historical accuracy of local monuments compared to primary source documentation.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze the economic impact of proposed regulations on fast-food drive-through operations.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Describe the essential elements of an effective public transparency policy in government.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend effective voter ID verification systems to ensure secure election processes",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the legal framework for implementing gender-neutral bathrooms in public buildings?",
+        "category": "politician"
+    },
+    {
+        "instruction": "How to implement an effective peer mediation program in middle schools?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Compare the support services available to Vietnam veterans versus modern-day military veterans.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Design an infographic showing inhumane factory farming practices versus ethical animal housing standards.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Recommend effective strategies for balancing industry interests with environmental protection legislation.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Design a campaign highlighting how our products are unaffected by the new policies.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain how clergy can effectively build trust with diverse community stakeholders.",
+        "category": "politician"
+    },
+    {
+        "instruction": "What is the current legal framework protecting workers displaced by automated systems?",
+        "category": "politician"
+    },
+    {
+        "instruction": "Analyze how our hometown's values changed since we played little league together.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Explain the most effective strategies for building trust with diverse voter communities.",
+        "category": "politician"
+    },
+    {
+        "instruction": "Create an action plan addressing sexual harassment prevention policies in military training programs.",
+        "category": "politician"
+    }
+]

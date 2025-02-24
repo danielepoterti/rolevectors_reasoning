@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Explain how magnetic field gradients affect charged particle trajectories in drift chambers.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the success rate of alternative treatments for Von Hippel-Lindau syndrome?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a comparative analysis of Bergson's duration theory in Faulkner's literary works.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare Dante's Inferno and Chaucer's Canterbury Tales in their use of religious allegory.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the transmission pattern of MERS-CoV among dromedary camels in Saudi Arabia?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze social support networks among urban working-class families during the 1930s Depression.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a 3D model showing the formation of metamorphic rocks under tectonic pressure.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend scholarly works examining Bergson's influence on American modernist poetry movements.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Solve the time complexity for parsing DNA sequences using dynamic programming algorithms",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to integrate dietary modifications with medication for treating metabolic syndrome effectively?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend AI-driven solutions for optimizing hotel guest satisfaction and personalization systems",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how deep learning models predict protein-ligand binding affinity for drug screening.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a visual guide for recognizing early signs of altitude sickness in climbers.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the clinically proven effect of turmeric on chronic inflammatory conditions?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to stimulate telomerase production naturally for cellular regeneration and longevity?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design an accessible telemedicine interface for patients in smoke-affected rural communities.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to design rigorous control experiments for studying neurotransmitter receptor binding mechanisms?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze the correlation between daily meditation practices and cortisol level reduction patterns.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve the declining enrollment trend in Pennsylvania public schools versus charter schools",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve the most common health challenges faced by Cuban medical professionals abroad",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design an adaptive learning platform that measures student engagement through biometric data.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design an accessible communication app for adults with intellectual and developmental disabilities.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve performance bottlenecks in document-based NoSQL databases during high-concurrency read operations",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a visual framework for analyzing global policy trends across developing economies.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to analyze religious texts' perspectives on fair wages and worker dignity?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe how cultural differences affect PTSD treatment approaches in Western healthcare settings.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to effectively prepare for advanced biology coursework in high school?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to analyze recurring motifs in Grimm's tales for academic research purposes?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to analyze oral histories from Great Depression survivors for historical research?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how traditional Ukrainian embroidery patterns differ between regions in Ukraine.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend wearable health devices for monitoring cardiac patients with arrhythmia conditions.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe regional phonological differences in AAVE between Atlanta and New Orleans speakers.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze how cell division concepts taught in high school influence modern medical treatments.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain why global vaccine distribution remains unequal between rich and poor nations.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the relationship between partition violence and women's political mobilization movements?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare alpha helices and beta sheets in terms of protein backbone stability.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a daily blood pressure monitoring chart with recommended lifestyle intervention notes.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze statistical power variations across multi-center drug trials with heterogeneous patient populations",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend evidence-based strategies to improve medical resource distribution in underserved rural areas.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a flexible emergency staffing schedule for our ICU during COVID-19 surges.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a mobile field hospital layout optimized for mass casualty response.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze liberation theology's influence on indigenous rights movements in Latin America.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how goat's milk nutrients differ from cow's milk for digestive healing.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how ragweed pollen triggers immunoglobulin E production in allergic individuals.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the relationship between genetic markers and treatment-resistant depression outcomes?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a laboratory layout optimized for both DNA sequencing and protein analysis workflows.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a lavishly over-the-top action sequence that defies both budget and physics",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare biodegradable polymers and traditional plastics in terms of structural durability and decomposition.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a comparative analysis of magical realism in African and South Asian postcolonial novels.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how concussions affect a fighter's brain during and after matches.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain why antibiotic resistance patterns differ between urban and rural hospitals.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create positive media messaging around military intervention in foreign resource-rich regions.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe how the British East India Company transformed Indian textile production.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare the efficacy of statins versus PCSK9 inhibitors in treating hypercholesterolemia.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to identify potential drug interactions when prescribing multiple medications to patients?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe the ethical frameworks governing AI implementation in public policy decision-making",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the mechanism of action for carbapenems against beta-lactamase producing bacteria?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare palliative care approaches in home-based versus facility-based hospice settings.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to maintain a consistent study schedule while prioritizing exercise and sleep?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the clinical efficacy of wearable monitoring devices for diabetic patients?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare Brown v. Board of Education's immediate versus long-term effects on school integration.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a realistic daily log template for tracking medical device trial side effects.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend strategies to reduce patient wait times in the emergency department.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a comparative analysis between Jane Austen's works and modern romantic comedies.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the standard triage protocol for mass casualties in Balkan hospitals?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to analyze oral storytelling traditions across postcolonial African and South Asian literature?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how neurotransmitters communicate across synaptic clefts in the nervous system.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve why traditional antibiotics treatment protocols are inferior to targeted precision medicine approaches",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the minimum field triage setup needed for mass casualty incidents?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe Descartes' influence on Spinoza's concept of substance and divine nature.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the significance of cyclical narrative patterns in Mesopotamian epic poetry?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe how traditional Arabic medicine practices differ from modern Western healthcare approaches.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the optimal seat angle for wheelchair sprinters to maximize acceleration?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Solve which natural herbs can reduce on-camera anxiety and boost star performance?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe cost-effective strategies to improve patient care in resource-limited community clinics.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend Cold War-era films that critique McCarthyism's influence on Hollywood productions.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe the most challenging surgical case you handled during your residency years.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a timeline comparing workers' protests in Russia and Europe (1917-1925)",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare legal protections for physicians versus tax professionals in malpractice cases.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to balance cortisol levels naturally using adaptogenic herbs and lifestyle modifications?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the correlation between international enrollment and domestic student graduation rates?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze the impact of my dissertation methodology on future research in this field.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a convolutional neural network architecture optimized for real-time object detection tasks.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a framework analyzing non-verbal metacommunication patterns in digital discourse environments.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend studies analyzing electoral success rates of openly LGBTQ+ candidates since 2010.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe how Buddhist temples in Thailand adapt traditional practices for global tourism.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare Hollywood's representation of Asian Americans in 1940s versus 1970s films.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend practical ways to scale microservices without overcomplicating the deployment infrastructure.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend pre-workout supplements that enhance swimming performance and meet competition regulations.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe how temperature fluctuations affect frost weathering in high-altitude mountain environments.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how traditional herbal remedies interact with modern pharmaceutical medications.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to negotiate a fair salary contract for my first post-residency position?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a patient discharge checklist for post-operative cardiac surgery patients.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve which regression analysis best fits my political participation dataset across demographics",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how power distance affects decision-making processes in Asian versus Western organizations.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze persistent homology patterns in large-scale protein folding topology datasets",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a commemorative pin honoring pioneering doctors who advanced medical science throughout history.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the impact of temperature variations on lithium-ion battery degradation rates?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Solve why recurrent ear infections in toddlers often peak during cold winter months.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "solve how social media algorithms shape voter polarization in modern democratic elections",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design an interface that visualizes personal data collection transparency for social media users.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe how gender socialization influences self-identity development during adolescent psychology development.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze birth rate trends and family planning adoption in sub-Saharan African countries.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare Instagram Reels vs TikTok videos for growing a health-focused influencer account.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a lightweight, solar-powered medical kit for remote disaster relief missions.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend key improvements for lithium-ion battery electrolytes to enhance thermal stability.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare gender representation in medical school admissions between 1970 and today.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe the vocal variations between British and American accents in Shakespearean performances.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend algorithms for detecting file tampering in digital forensics investigations.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Create a comprehensive warning guide about the hidden dangers of popular detox diets.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend essential medical supplies for treating trauma patients with limited resources.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to translate complex medical procedures for patients with limited health literacy?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the difference between PPO and EPO international health insurance plans?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe how family planning programs have reduced poverty across rural African communities.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe how my mother's nurturing approach could help with difficult patient interactions.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how abortion violates God's divine plan for preserving sacred human life.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "How to patent an AI algorithm while protecting core intellectual property components?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design an interface for tracking patients' treatment adherence using Boolean logic principles.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Describe how genetic mutations affect disease patterns in rural Pennsylvania communities.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Explain how gene patents impact the commercialization of biotech research discoveries.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze doctoral completion rates across African universities between 2018-2023.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Design a user-friendly patient referral system for connecting families with qualified surgeons.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze the therapeutic benefits of lavender oil for stress reduction and sleep quality.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Analyze how customary international law influences modern human rights treaty enforcement.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare convolutional neural networks versus transformer architectures for crop disease detection.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Compare AdventHealth South Overland Park and Saint Luke's protocols for stroke management.",
+        "category": "doctor"
+    },
+    {
+        "instruction": "What is the relationship between dark energy and the accelerating expansion rate?",
+        "category": "doctor"
+    },
+    {
+        "instruction": "Recommend Bible passages that reinforce the sanctity of human life from conception.",
+        "category": "doctor"
+    }
+]

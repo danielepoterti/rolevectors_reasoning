@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Recommend books about Lowestoft's fishing industry during the Victorian era.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Solve how ancestry and family traditions shaped Gustav Klimt's unique artistic style.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Solve how NATO's formation directly influenced Soviet military strategies during 1949-1955.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how trade routes influenced cultural exchange in medieval Middle Eastern societies.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a detailed timeline of the Roman Empire's territorial expansion from 27BC-180AD.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain Einstein's relationship with the Manhattan Project and his atomic research regrets.",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the significance of cuneiform tablets found in Ashurbanipal's library at Nineveh?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Analyze the impact of Rugby League's introduction to southern France during 1934-1950.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Analyze the preservation of traditional stone houses in \u0130\u015fg\u00f6ren's old town center.",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the significance of Place Stanislas in Nancy's architectural history?",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the impact of Vatican II on Spanish Catholic leadership since 1965?",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to trace the lineage of pre-colonial Yoruba kings through oral traditions?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Describe the impact of the 1989 Velvet Revolution on daily life in Slovakia.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Recommend books about the history of fishing industry in Lowestoft during 1800s.",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to authenticate 18th-century Persian manuscripts from the Talysh Khanate region?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a detailed walking route highlighting Manchester's most significant Pre-Raphaelite art locations.",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to incorporate historical preservation into modern urban development planning effectively?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare the bistro's architectural style with other historic buildings in this neighborhood.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a detailed timeline of Jaro Plaza's transformation since Spanish colonial times.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Solve how women's suffrage movements influenced modern workplace equality across Western nations.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare carbon dating methods with dendrochronology for dating ancient archaeological artifacts.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Describe the organizational methods used by the American Antiquarian Bibliographical Society since 1892.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare medieval Christianshavn with modern Christianshavn's architecture and cultural atmosphere.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Describe how Civil Defense sirens evolved from World War II to modern emergency systems.",
+        "category": "historian"
+    },
+    {
+        "instruction": "solve which pioneering Black filmmakers helped establish the LA Rebellion movement's foundation",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain Einstein's role in drafting the Russell-Einstein Manifesto against nuclear weapons.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare reparations with economic empowerment programs for addressing historical racial inequalities.",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is Cinema Novo's impact on European New Wave movements of the 1960s?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Recommend accurate period clothing details for animating an 1860s American Civil War scene.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design a historically accurate map showing Native American territorial boundaries in 1850s Arizona.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design a vintage newspaper layout inspired by 1790s Austrian print publications",
+        "category": "historian"
+    },
+    {
+        "instruction": "Analyze how historical medieval warfare influenced battle scenes in Lord of the Rings.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a timeline comparing prison reform movements across ancient Rome and Victorian England.",
+        "category": "historian"
+    },
+    {
+        "instruction": "solve: Why did French colonial forces fail against Algerian resistance in 1957?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how isolating historical events from economic factors improves academic analysis.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare Hungarian and Soviet gymnastics training methods during the Cold War era.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how the Erie Canal transformed trade routes in 19th-century America.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare market regulation approaches between 1920s Wall Street and 2008 financial crisis.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Recommend Byzantine church mosaics that best exemplify 6th-century imperial patronage.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a timeline of major historical events in Kladanj during Ottoman rule",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the significance of double-headed eagles in Albanian medieval coats-of-arms?",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the significance of the War of the Pacific on Bolivia's economy?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a detailed timeline of the Oregon Trail's most significant events (1830-1869)",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare Stanley Nicholson Babb's sculptural style with Henry Moore's modernist approach.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design an interactive timeline showing urban expansion of Chicago from 1850-1950.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Recommend studies examining how drought influenced political collapse in ancient civilizations.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Describe the navigational equipment used on 17th-century Portuguese merchant sailing vessels.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare ancient tribal land management practices with modern conservation methods for sustainable resources.",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the significance of the Charleston dance in 1920s jazz culture?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how Norse longship design influenced Viking success in raiding English monasteries.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare early Christian baptismal practices between Rome and Alexandria during 150-250 CE.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how Napoleon's military discipline systems influenced modern army command structures.",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to trace Saint Patrick's journey through Ireland using historical sources?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Describe the traditional ceremonial movements and cultural significance of the Hula dance.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain the binding techniques used in 16th-century European manuscript production",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a timeline showcasing Venetian glassmaking innovations from 1200-1600 CE.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a timeline of Barrow A.F.C.'s most significant matches at Holker Street",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design an informative memorial plaque honoring Brazilian soldiers from the Paraguayan War.",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to preserve oral testimonies from Spanish Civil War survivors for future generations?",
+        "category": "historian"
+    },
+    {
+        "instruction": "solve how ancient Hawaiians used traditional fish ponds to sustainably harvest fish",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the significance of colorful spandex in 1980s professional wrestling attire?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Describe the role of chess in medieval Polish nobility's social gatherings.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a timeline comparing box office trends with major historical events since 1950.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Recommend books about Finnish Winter War from both Soviet and Finnish perspectives.",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to explain the Great Depression using modern slang and colloquial expressions?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design a weatherproof geocache container featuring historic landmarks of Victorian-era Margate.",
+        "category": "historian"
+    },
+    {
+        "instruction": "solve: What local musical traditions shaped this city's cultural identity before 1950?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a play-by-play analysis of the 1958 NFL Championship Greatest Game Ever",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to analyze the military tactics used during Azerbaijan's 1918 Battle of Baku?",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to properly examine and date medieval manuscript illuminations in monastical texts?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a visual timeline of Cherokee Purple tomato's journey through American culinary history.",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the significance of Orkney's Norse parliament, the Thing, in medieval Britain?",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to analyze visual symbolism in paintings from the Romantic poetry era?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Describe how the Circleville Pumpkin Show has evolved since World War II.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design an infographic comparing state symbols between Nazi Germany and Soviet Russia.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how ancient Roman architecture principles influenced Renaissance-era building design methods.",
+        "category": "historian"
+    },
+    {
+        "instruction": "solve the outlandish health claims made by Clark Stanley's Snake Oil Liniment.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design a traditional Welsh tapestry featuring mythical creatures from Snowdonia's mountain legends.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Recommend books about historic football clubs from Renfrewshire during the Victorian era.",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to accurately reconstruct deck plans of 1920s luxury passenger ships?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare the administrative systems of the Abbasid and Umayyad Caliphates during their peaks.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Describe the social impact of London's first tea houses in 18th-century Britain",
+        "category": "historian"
+    },
+    {
+        "instruction": "Recommend books about servant life in Victorian and Edwardian English manor houses",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to identify Mud\u00e9jar architectural elements in Spanish medieval religious buildings?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare the wrestling attire of 1980s WWF superstars versus 1990s WCW wrestlers.",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the significance of the Highwaymen painters in Florida's art history?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare Moksha resistance fighters against Russian imperialism to Soviet-era partisan movements.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design a vintage-inspired vinyl record sleeve for a lost Beethoven symphony recording.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Recommend films that accurately depict family life in 1960s Soviet Union",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design a modern podcast cover showcasing urban skylines and historical architectural elements.",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the legacy of Governor William Larrabee in Rockwell City's development?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Analyze how Sibelius's Kullervo influenced subsequent Finnish symphonic compositions through 1950.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Analyze the tactical advantages of scythed chariots in Persian military campaigns.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a timeline comparing Ottoman siege tactics at Constantinople and Vienna battles.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare fresco painting techniques used in Romanesque versus Gothic cathedral ceiling murals.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare the feudal obligations of English knights versus French knights during 1200-1300.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how Atat\u00fcrk's Turkish script reform influenced literacy rates and cultural identity.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how early synthesizers influenced modern digital audio workstation design techniques.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a timeline showing how rodeo clown safety gear evolved since 1920.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design a commemorative poster celebrating the 1936 Olympic rowing victory of Joe Rantz.",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the historical significance of Nyhavn's colorful merchant houses in Copenhagen?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Recommend books about Morgan, Texas railroads during the early 1900s frontier period.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a timeline showing Jimmy Page's guitar techniques that influenced 1970s rock guitarists.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare the architectural styles of Berkeley's earliest campus buildings versus modern additions.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare the Winter War and Continuation War's impact on Finnish military doctrine.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how French New Wave cinema revolutionized film editing and narrative techniques.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design an infographic showing religious conflict zones in Pakistan since 1947's partition.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design an infographic comparing ancient Greek and Roman political systems and institutions.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a historical timeline showing evolution of organized crime from 1800s-1950s.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how Walt Whitman's poetry captured the emotional impact of Civil War.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare the societal impact of the Iwo Jima photograph versus Tank Man image.",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the significance of Josef Masopust in Czechoslovakian football history?",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how Nazarabad's agricultural heritage influenced local family settlement patterns since 1900.",
+        "category": "historian"
+    },
+    {
+        "instruction": "solve the impact of the E6 highway expansion through Vang on local communities",
+        "category": "historian"
+    },
+    {
+        "instruction": "Recommend books analyzing Lesotho's political transition from British protection to independence",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how Stalin's deportation of Crimean Tatars affected their cultural heritage preservation.",
+        "category": "historian"
+    },
+    {
+        "instruction": "solve the decline of Zand Dynasty's power after Karim Khan's death in 1779",
+        "category": "historian"
+    },
+    {
+        "instruction": "Explain how government land records can verify early settlement dates from 1820-1850.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Create a detailed organizational chart of the IDF's chain of command structure.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design an infographic timeline showing the evolution of the League of Nations (1920-1946)",
+        "category": "historian"
+    },
+    {
+        "instruction": "Analyze the impact of Stephenson's Rocket on early steam locomotive development.",
+        "category": "historian"
+    },
+    {
+        "instruction": "How to uncover and document forgotten female jazz artists from the 1940s?",
+        "category": "historian"
+    },
+    {
+        "instruction": "solve the military logistics of supplying Constantinople during the Arab siege of 717",
+        "category": "historian"
+    },
+    {
+        "instruction": "Design a historical plaque highlighting our bistro's role in 1920s local culture",
+        "category": "historian"
+    },
+    {
+        "instruction": "Analyze these handwriting samples to determine authenticity of Lincoln's personal wartime correspondence.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Compare China's tributary system with European colonial expansion during the Ming Dynasty.",
+        "category": "historian"
+    },
+    {
+        "instruction": "Uservik",
+        "category": "historian"
+    },
+    {
+        "instruction": "What is the role of military hierarchies in the Sao Paulo Revolt?",
+        "category": "historian"
+    }
+]

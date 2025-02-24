@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Solve how minimalist interface design affects working memory load during task completion.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how dopamine feedback loops reinforce addictive gambling behavior patterns.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a visual representation of how the collective unconscious manifests in modern artwork.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare mindfulness techniques versus traditional counseling approaches for helping anxious students.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a simulation of how my synesthesia affects my perception of classical music.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to measure dopamine responses while subjects engage with social media platforms?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend strategies for maintaining client confidentiality when transitioning to telehealth therapy sessions.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to identify crime novels with authentic forensic psychology and profiling techniques?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend evidence-based CBT techniques for treating patients with severe social anxiety disorder.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how pre-game visualization techniques help catchers reduce anxiety behind the plate.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a behavioral intervention plan targeting excessive social media use in teenagers.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "solve how therapeutic role-play can reduce anxiety in group counseling sessions",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a heatmap showing consumer attention patterns during influencer product placement videos.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to explain gut-brain connection to patients struggling with anxiety disorders?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to measure emotional resonance of brand visuals using eye-tracking technology?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "solve why repeat offenders often escalate their criminal behavior despite previous interventions",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a trauma-informed safe space for youth in juvenile detention facilities.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is the relationship between childhood trauma and adult attachment styles?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a family dynamics assessment tool for identifying barriers to academic success.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare trauma-focused cognitive behavioral therapy versus EMDR therapy for treating PTSD.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to measure cortisol levels in dogs during fear-induced aggressive episodes?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how mindfulness practices enhance emotional regulation in high-pressure leadership situations.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend evidence-based methods for assessing childhood trauma in clinical research settings.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare Freudian and Jungian interpretations of recurring dreams about falling.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create visual representations of how synesthetes perceive musical notes through colors.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how juror demographics influence decision-making patterns in high-stakes criminal trials.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare dopamine responses in gambling addiction versus social media addiction behaviors.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is the impact of genetic testing results on children's psychological well-being?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how socioeconomic factors directly impact learning outcomes in disadvantaged school districts.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Solve why extroverted diplomats often fail when negotiating with introverted Eastern leaders.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend evidence-based music interventions for reducing anxiety in trauma-informed therapy sessions.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare traditional lectures versus game-based learning for teaching scientific concepts to teenagers.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Solve why multitasking with digital devices reduces information retention during learning tasks.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend studies examining how peer groups shape individual decision-making and cognitive biases",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is the correlation between childhood trauma and adult attachment patterns?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare social conformity behaviors in democratic versus authoritarian political environments.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "solve why cognitive dissonance makes people defend beliefs despite contradicting evidence",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a classroom layout that minimizes visual distractions and maximizes student attention.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze how social media usage patterns correlate with reported anxiety levels in teenagers.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a visual guide showing common postures that indicate emotional distance between people.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a therapy tracking app interface focused on monitoring co-occurring mental health symptoms.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend creative art therapy activities for helping anxious children express their emotions.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is the relationship between trauma-focused CBT and substance use recovery outcomes?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "solve what techniques help patients achieve deeper trance states during hypnotherapy sessions",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "solve how to streamline communication between social workers and mental health providers efficiently",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design an emotion-tracking app for children to express and monitor their feelings",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare your emotional state when writing freely versus when feeling pressured to write.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze how religious beliefs influence decision-making patterns in multicultural workplace environments.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a visual interface that highlights factual inconsistencies in social media news articles.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design an app interface that guides users through mindful eating meditation practices.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to help an MMA fighter maintain confidence while recovering from knee surgery?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a comparison chart showing individual versus group therapy treatment effectiveness patterns.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend effective ways to reduce mental health stigma in small rural communities.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend effective coping strategies for managing work-related anxiety and burnout.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Describe healthy alternatives to screen time for promoting child development and socialization.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare individualistic versus collectivistic cultures' approaches to conflict resolution in workplace settings.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to analyze psychological patterns in domestic violence cases across different cultures?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Solve why eldest siblings often take on parental roles during family conflicts.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze the relationship between workplace deadline pressures and anxiety disorder development patterns.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze how cognitive biases influence employees' responses to phishing email attacks.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare early intervention versus late treatment approaches in childhood anxiety disorders.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design an interactive visualization tool that maps viewers' memory recall of non-linear films.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is the effectiveness of group CBT interventions in reducing prison recidivism rates?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze how Dr. Smith's research on trauma therapy revolutionized clinical psychology practices.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze how VR therapy sessions lack authentic nonverbal cues compared to in-person treatment.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a mindfulness app combining CBT principles with traditional meditation practices.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Describe how workplace recognition programs affect employee motivation and mental well-being.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how cognitive restructuring techniques help patients challenge and modify negative thoughts.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a calming visualization exercise poster for students preparing for stage performances.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is khat's psychological impact on Ethiopian university students' academic performance?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how childhood trauma influences hoarding behaviors and attachment to possessions.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "solve: How do noise levels in hospital rooms affect patient recovery times?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a welcoming community space for peer support groups and mental wellness activities.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend evidence-based strategies for making bedtime stories more engaging for anxious children.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend evidence-based swaddling techniques that promote longer sleep duration in 2-month-old infants.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare art therapy techniques for anxiety versus depression in therapeutic settings.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze how parental emotional regulation affects children's social skills development ages 3-7.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze how Garry Kasparov's aggressive chess tactics reflect his psychological dominance mindset.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how Jung's concept of the shadow influences unconscious behavioral patterns.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Describe how introversion affects decision-making patterns in high-pressure workplace scenarios.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a visual campaign showing how personal stories trigger charitable giving responses.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to help actors process emotional trauma after intense method acting roles?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is the psychological significance of Holden's red hunting hat in Catcher?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a brain activity visualization tool for tracking patient emotional regulation patterns.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how children's books can help develop emotional intelligence and self-awareness skills.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze how decision-making patterns change under high-stress combat situations among military officers.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare behavioral patterns between military children during deployment versus post-deployment reunion periods.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is the correlation between productivity training programs and workplace satisfaction levels?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how neighborhood design impacts mental well-being in urban communities.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a therapeutic board game helping children express emotions during family conflicts.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend cartoons that effectively portray anxiety and depression in child-friendly ways.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a framework comparing individual trauma responses versus collective societal trauma patterns.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how cognitive behavioral therapy helps rewire negative thought patterns.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain why childhood experiences can trigger anxiety responses in adult relationships.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare cognitive behavioral therapy versus psychodynamic therapy for treating chronic depression patients.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare grief counseling approaches used in group therapy versus individual therapy sessions.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a psychological profile template for analyzing perpetrators of domestic violence across cultures",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is the correlation between prolonged work hours and relationship satisfaction levels?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to document my unique ability to instantly memorize complex numerical sequences?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a journal layout that encourages self-reflection through guided emotional check-in spaces.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is cultural identity loss and its impact on third-culture kids?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Explain how trauma bonding creates emotional dependency in narcissistic abuse relationships",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to measure emotional responses to product interfaces using behavioral analysis techniques?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a calming meditation space that promotes self-reflection and emotional healing.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is the most effective way to manage panic attacks during flights?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Describe how peer pressure affects consumer spending patterns in different cultural contexts",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze how embodied cognition influences our subjective experience of time perception.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design an in-game reward system that leverages spaced repetition for optimal skill retention.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "solve how color saturation in visual stimuli affects information processing speed in humans",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is the connection between mindfulness meditation and cognitive restructuring techniques?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a therapeutic protocol integrating auditory and tactile stimuli for trauma treatment.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare how World War II trauma affected national identity in Japan versus Germany.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Describe how neural networks model human decision-making processes in learning tasks.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze how facial recognition in public spaces affects spontaneous social interactions between strangers.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend reliable assessment tools for measuring anxiety levels in alien abduction believers.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Solve how intuitive knowledge exists beyond empirical evidence in human consciousness.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare remote work policies versus in-office mandates on employee satisfaction and retention.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to design VR experiments that measure anxiety responses in controlled environments?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "What is the neurological connection between chronic stress and clinical depression symptoms?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Compare viewer comprehension between chronological narratives and non-linear storytelling in Memento.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Recommend evidence-based strategies for developing empathy in children ages 4-7.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create an employee motivation framework based on recent psychological research findings.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Create a safe, cozy space where I can talk about my feelings without fear.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a journal layout that creates space for emotional self-reflection and mood tracking.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Analyze how classroom seating arrangements affect introverted students' participation and engagement levels.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Describe how face-to-face conversations shape trust differently than social media interactions.",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "How to design child-friendly interview questions for studying sibling relationships?",
+        "category": "psychologist"
+    },
+    {
+        "instruction": "Design a mentorship program dashboard that tracks intern progress and professional development goals.",
+        "category": "psychologist"
+    }
+]

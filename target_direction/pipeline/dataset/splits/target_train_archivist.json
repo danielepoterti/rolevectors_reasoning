@@ -1,0 +1,514 @@
+[
+    {
+        "instruction": "Describe Johann Wolfgang von Goethe's influence on German Romantic literature movements.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Create a visual timeline of Venda culture's evolution in northern Limpopo since 1900.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "solve what distinguishes authentic 15th-century Glagolitic script from later imitation manuscripts?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the long-term impact of digitizing rare manuscripts on physical preservation?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "solve: What year did Lake Konstanz reach its historically highest water level?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare the evolution of table tennis paddles from the 1950s to modern times.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe Brazil's digital preservation initiatives and cultural heritage databases since 2010.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend rare Thora Birch film footage from her early child acting career",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare Nazi document-destruction methods in 1945 versus Soviet Holocaust record concealment practices.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe your country's most historically significant cultural sites worth documenting through photography.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Create a timeline showing Hong Kong's neon street sign evolution from 1960-present",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Create a step-by-step workflow for properly cataloging and preserving historical photographs.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend books documenting Portuguese Catholic missionary activities in 16th century Sri Lanka.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "solve the impact of cotton gin invention on Southern farm labor costs 1793-1850",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to find and document hidden historical landmarks using digital archive databases?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to calculate the financial impact of the 1901 Great Northern-Northern Pacific merger?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Create a curated list of hidden cultural gems worth documenting in [country name].",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe the construction documentation process for the Brooklyn Bridge in 1870-1883.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "solve who had more career passing yards: Dan Marino or John Elway?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare the architectural styles of medieval European monasteries and Islamic madrasas.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe the restoration process for damaged 17th-century parish baptismal records.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare traditional and modern methods of preserving oral histories in Limpopo villages.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Design a film noir-inspired title sequence that evokes Saul Bass's 1950s work.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend football matches from the 1960s that revolutionized defensive playing strategies.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare preservation techniques used in European museums during 1950s versus modern methods.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the preferred metadata schema for digitizing historical manuscripts and photographs?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the significance of Operation Cedar Falls in Vietnam's Iron Triangle?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain how oral histories shaped the documented timeline of the hidden cabin's past.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare wartime letters from soldiers to their families during WWI versus WWII.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Design an organized system to catalog and preserve rare book society newsletters.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the historical significance of Technicolor in 1930s Hollywood cinema?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to locate declassified military records about Operation Rolling Thunder in Vietnam?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe the DIY aesthetic and design elements of 1970s punk rock flyers.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain traditional Polynesian methods for preserving tapa cloth in humid climates.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain how the Rosetta Stone revolutionized our understanding of ancient Egyptian hieroglyphs.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Design an authentic 1920s newspaper layout with vintage typography and period-appropriate advertisements.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to verify the authenticity of 19th-century handwritten government correspondence?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Design a climate-controlled storage system for preserving traditional Pacific Islander textiles.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the rarest Gordon Lightfoot demo recording from his early Folk period?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Analyze color degradation patterns in 1960s Bollywood film negatives stored in humid conditions.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend reliable resources for studying Prime Minister William Gladstone's domestic reform policies.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Design an exhibit layout celebrating the Negro Leagues' impact on baseball history.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe the evolution of public transit systems in major European cities since 1950.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Design a vintage-inspired library bookplate that captures the 1920s Parisian literary scene.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to preserve Negro League baseball uniforms and equipment for museum display?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Analyze preservation patterns of 19th-century manuscripts in university special collections.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Create a detailed workflow for digitizing and cataloging WWII letters and photographs.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Analyze Dr. Wofsy's research contributions to atmospheric chemistry between 1980-1995.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the historical significance of Portuguese missionaries in Sri Lankan Catholicism?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to choose document scanning software for preserving delicate historical manuscripts?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Analyze the preservation techniques used in medieval monasteries for protecting ancient manuscripts.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe how Citizen Kane revolutionized cinematography techniques and influenced modern filmmaking.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Design a space-efficient filing system for organizing thousands of historical documents.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to authenticate 18th-century handwritten letters for academic research purposes?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend books examining African-American leadership within the Episcopal Church since 1960.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Create a detailed timeline showing your family's migration patterns from 1850-1900.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Create a digital catalog system for preserving Native American artifacts and oral histories.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Create a timeline showing Bangladesh's major constitutional amendments from 1972-1990.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare traditional photo albums with digital storage methods for preserving family memories.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the historical significance of West Indian bishops in Anglican leadership?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to properly handle and catalog delicate historical documents in archival collections?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe the preservation techniques for protecting nineteenth-century Native American photographs and documents.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Create a detailed timeline of Joe Montana's most memorable fourth-quarter comeback victories.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to digitally preserve fragile historical documents while maintaining their authenticity?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare cotton farming profitability between Southern plantations and Northern farms in 1850.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Analyze Pel\u00e9's goal-scoring patterns and techniques during the 1958-1970 World Cup tournaments.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "solve: Which historical archives would best document the American Civil Rights Movement?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain how genealogical records from the 1800s can verify my family's founding status.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to properly preserve ancient papyrus scrolls in varying humidity conditions?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain the preservation methods used for ancient Middle Eastern manuscripts during sandstorms.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to properly catalog and preserve fragile historical documents from the 1800s?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain the chemical properties that cause ink degradation in 15th-century Cyrillic manuscripts.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to restore and preserve deteriorating 16mm film from the 1940s?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare preservation methods for comedy radio shows versus early television comedy programs.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend software solutions for digitizing and indexing seismic activity records from 1950-1980.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain why film grain and analog artifacts cannot be authentically replicated digitally.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the historical significance of Queen Victoria's private letters to Prince Albert?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the best method for digitally preserving old family photographs and documents?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain the best practices for preserving delicate historical documents and photographs.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare medical record-keeping practices in 1950s Florida versus modern digital health systems.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the chemical composition of medieval ink used in monastery manuscripts?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend proven methods to protect historical documents from environmental damage and deterioration.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "solve historical population trends of endangered Sumatran rhinos from 1980-2020 archival records",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to properly preserve 12th-century parchment manuscripts without damaging the illuminations?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the preservation process for medieval parchment manuscripts in monastic libraries?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Analyze the influence of Nordic functionalism on Finnish public libraries built 1930-1950",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare narrative pacing techniques in contemporary literary fiction versus commercial thrillers.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend notable table tennis matches from the 1950s worth adding to our archives.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare traditional Maori t\u0101 moko tattoo practices with modern Pacific Islander tattooing methods.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Create a detailed catalog system for organizing rare manuscripts by time period and topic.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe the architectural changes to Chihuahua's colonial churches during Mexico's Reform period.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Design an exhibit layout showcasing medieval manuscripts with proper preservation display cases.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Design a user interface for rare manuscript scanning with OCR capabilities",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain the radiological effects of plutonium-239 on laboratory safety protocols during 1945.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the significance of wood detailing in traditional Finnish ecclesiastical architecture?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend books analyzing the 1870s railroad mergers' impact on Midwest grain prices.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain the importance of proper VHS tape storage for long-term preservation.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe the preservation techniques used for ancient Islamic manuscripts during Kuwait's Colonial era.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain how DIY zines influenced punk rock's spread during the 1970s underground scene.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe any distinctive markings or symbols visible on these 19th-century family documents.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare Gothic and Norman architectural elements found in medieval English church naves.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend techniques for preserving 18th century fur trade documents from New France.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Analyze declassified reports documenting radiation exposure levels at Los Alamos during 1944-1945.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Design a hybrid library system that seamlessly integrates physical books with digital archives.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "solve which preservation method best protects vintage leather football helmets from deterioration",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Analyze the preservation techniques used in medieval monasteries for protecting illuminated manuscripts.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe the DIY aesthetic and handmade techniques used in early punk show flyers.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Design a digital cataloging system for preserving and organizing WWII family artifacts.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend key African American surgeons who pioneered cardiac procedures before 1960.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Compare quarterly earnings filing formats between SEC Form 10-Q and Form 8-K reports.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "solve how to best categorize and tag Estonian werewolf legends for digital preservation",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain the proper handling protocols for nineteenth-century textile artifacts in storage.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Analyze the impact of the Negro Leagues on modern baseball's integration movement.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Create a system to catalog my sibling's stand-up comedy routines like historical documents.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Explain how Dover International Speedway's track configuration evolved since its 1969 opening.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to properly catalog Alvar Aalto's functionalist buildings from 1930s Helsinki archives?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend notable bibliographic societies that influenced academic research between 1850-1900.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is data minimization and why is it crucial for privacy protection?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "What is the origin of the stone foundation beneath the hidden cabin?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe the preservation methods used for railway timetables from the 1890s.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Analyze these photographs of the 1963 Birmingham Campaign for hidden symbolic details.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "How to properly digitize and preserve deteriorating manuscripts using archival-grade scanning techniques?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "solve: What's the best file format for preserving historical photographs of pioneer trails?",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend best practices for handling and preserving delicate historical documents in archives.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Describe the preservation methods for fragile wartime letters and personal Holocaust testimonies.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend reliable archives or databases for finding unpublished Holocaust survivor testimonies.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "Recommend ethical frameworks for managing personal data collection in digital archives.",
+        "category": "archivist"
+    },
+    {
+        "instruction": "solve why the Pennsylvania Railroad's 1871 acquisition of United New Jersey Railways succeeded",
+        "category": "archivist"
+    }
+]
