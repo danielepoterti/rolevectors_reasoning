@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #SBATCH --account=IscrC_LLM-EVAL
-#SBATCH --job-name=lm_eval_%a
+#SBATCH --job-name=lm_eval_mathematician
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --exclusive
@@ -9,51 +9,12 @@
 #SBATCH --cpus-per-task=8
 #SBATCH --partition=boost_usr_prod
 #SBATCH --time=15:00:00
-#SBATCH --array=0-28         # 29 roles, indices 0 through 28
-#SBATCH --output=role_%A_%a.out
-
-# Define the roles array.
-# Note: Items with spaces (like "data analyst") must be enclosed in quotes.
-roles=(
-  "economic researcher"
-  "economist"
-  "financial analyst"
-  "electronics technician"
-  "data scientist"
-  "electrical engineer"
-  "software engineer"
-  "web developer"
-  "bailiff"
-  "lawyer"
-  "data analyst"
-  "mathematician"
-  "statistician"
-  "nurse"
-  "doctor"
-  "physician"
-  "dentist"
-  "surgeon"
-  "geneticist"
-  "biologist"
-  "physicist"
-  "teacher"
-  "chemist"
-  "ecologist"
-  "politician"
-  "sheriff"
-  "enthusiast"
-  "partisan"
-  "psychologist"
-)
-
-# Get current role from the array using SLURM_ARRAY_TASK_ID
-ROLE="${roles[$SLURM_ARRAY_TASK_ID]}"
+#SBATCH --output=role_mathematician_%j.out
 
 echo "$(date): Job started"
 echo "Job ID: $SLURM_JOB_ID"
-echo "Array Task ID: $SLURM_ARRAY_TASK_ID"
-echo "Processing role: $ROLE"
 echo "Running on node: $(hostname)"
+echo "Processing role: mathematician"
 
 # Load necessary modules
 echo "Loading modules..."
@@ -82,8 +43,8 @@ echo "Successfully changed to target directory: $(pwd)"
 
 # Run pipeline command
 echo "Starting pipeline execution..."
-echo "Running model: meta-llama/Llama-3.2-1B-Instruct with role: $ROLE"
-srun python -m pipeline.run_pipeline --model_path meta-llama/Llama-3.2-1B-Instruct --role "$ROLE"
+echo "Running model: deepseek-ai/DeepSeek-R1-Distill-Llama-8B with role: mathematician"
+srun python -m pipeline.run_pipeline --model_path deepseek-ai/DeepSeek-R1-Distill-Llama-8B --role "mathematician"
 
 # Final status
 if [ $? -eq 0 ]; then

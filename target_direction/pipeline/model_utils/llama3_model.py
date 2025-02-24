@@ -16,17 +16,16 @@ from pipeline.model_utils.model_base import ModelBase
 
 LLAMA3_CHAT_TEMPLATE = """<|start_header_id|>user<|end_header_id|>
 
-{instruction}<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-
-"""
+{instruction}<|eot_id|><|start_header_id|>assistant<|end_header_id|><think>\\n
+""" #https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B#usage-recommendations
 
 LLAMA3_CHAT_TEMPLATE_WITH_SYSTEM = """<|start_header_id|>system<|end_header_id|>
 
 {system_prompt}<|eot_id|><|start_header_id|>user<|end_header_id|>
 
-{instruction}<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+{instruction}<|eot_id|><|start_header_id|>assistant<|end_header_id|><think>\n 
 
-"""
+""" #https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B#usage-recommendations
 
 # LLAMA3_REFUSAL_TOKS = [40] # 'I'
 # LLAMA3_REFUSAL_TOKS = [[9642],[2822]] # 'Yes', 'No'

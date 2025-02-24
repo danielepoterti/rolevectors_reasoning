@@ -111,7 +111,6 @@ class QwenModel(ModelBase):
             torch_dtype=dtype,
             trust_remote_code=True,
             device_map="auto",
-            **model_kwargs,
         ).eval()
 
         model.requires_grad_(False) 

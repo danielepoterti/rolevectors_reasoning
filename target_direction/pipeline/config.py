@@ -12,11 +12,12 @@ class Config:
     n_train: int = 128
     n_test: int = 100
     max_new_tokens: int = 512
+    max_new_tokens_reasoning: int = 32768
     model_test: str = "anthropic/claude-3.5-haiku"
     providers_test: List[str] = field(default_factory=lambda: ['Anthropic'])
     temperature_test: float = 0.0
-    role = "chemist"
-    test = "natural_science"
+    role = "mathematican"
+    test = "math"
     coeff = +1.0
     batch = 32
     offline = True

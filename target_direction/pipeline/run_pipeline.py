@@ -12,8 +12,6 @@ from pipeline.model_utils.model_factory import construct_model_base
 
 from pipeline.submodules.generate_directions import generate_directions
 from pipeline.submodules.select_direction import select_direction, test_directions
-from pipeline.submodules.evaluate_jailbreak import evaluate_jailbreak
-from pipeline.submodules.evaluate_loss import evaluate_loss
 from tqdm import tqdm
 
 def parse_arguments():
@@ -48,7 +46,7 @@ def load_and_sample_datasets(cfg):
     random.seed(42)
     target_train = random.sample(load_dataset_split(datavar='target', split=f'train_{cfg.role}', instructions_only=True), cfg.n_train)
     base_train = random.sample(load_dataset_split(datavar='base', split='train', instructions_only=True), cfg.n_train)
-    target_val = load_dataset_split(datavar='target', split=f'test_{cfg.test}', instructions_only=False)
+    target_val = random.sample(load_dataset_split(datavar='target', split=f'test_{cfg.test}', instructions_only=False), cfg.n_test)
     return target_train, base_train, target_val
 
 
@@ -111,8 +109,8 @@ async def select_and_save_direction(cfg, model_base, target_val, candidate_direc
     if not os.path.exists(select_dir):
         os.makedirs(select_dir)
     
-    print("Testing directions...")
-    await test_directions(model_base, candidate_directions, artifact_dir=os.path.join(cfg.artifact_path(), cfg.role, "test_direction", str(cfg.coeff)), cfg=cfg)
+    # print("Testing directions...")
+    # await test_directions(model_base, candidate_directions, artifact_dir=os.path.join(cfg.artifact_path(), cfg.role, "test_direction", str(cfg.coeff)), cfg=cfg)
     
     metadata_file = os.path.join(cfg.artifact_path(), cfg.role, cfg.test, str(cfg.coeff), "direction_metadata.json")
     if os.path.exists(metadata_file):
@@ -254,8 +252,11 @@ async def run_pipeline(model_path, role):
     model_alias = os.path.basename(model_path)
     cfg = Config(model_alias=model_alias, model_path=model_path)
     model_base = construct_model_base(cfg.model_path)
-    tests = ["natural_science", "law", "econ", "eecs", "math", "medicine", "politics", "psychology"]
-    coeffs = [+1.0, +3.0]
+    # tests = ["natural_science", "law", "econ", "eecs", "math", "medicine", "politics", "psychology"]
+    # coeffs = [+1.0, +3.0]
+    coeffs = [1.0]
+    tests = ["math"]
+    
     cfg.role =  role
     
     progress_bar = tqdm(total=len(tests) * len(coeffs), desc="Processing tests")
