@@ -1,20 +1,37 @@
 #!/bin/bash
 
 #SBATCH --account=IscrC_LLM-EVAL
-#SBATCH --job-name=lm_eval_mathematician
+#SBATCH --job-name=lm_eval_%a
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --exclusive
 #SBATCH --gres=gpu:1
 #SBATCH --cpus-per-task=8
 #SBATCH --partition=boost_usr_prod
-#SBATCH --time=15:00:00
-#SBATCH --output=role_mathematician_%j.out
+#SBATCH --time=08:00:00
+#SBATCH --array=0-6         # 7 pos, indices 0 through 6
+#SBATCH --output=role_%A_%a.out
+
+# Define the pos array.
+# Note: Items with spaces (like "data analyst") must be enclosed in quotes.
+pos=(
+    -1
+    -2
+    -3
+    -4
+    -5
+    -6
+    -7
+)
+
+# Get current pos from the array using SLURM_ARRAY_TASK_ID
+POS="${pos[$SLURM_ARRAY_TASK_ID]}"
 
 echo "$(date): Job started"
 echo "Job ID: $SLURM_JOB_ID"
+echo "Array Task ID: $SLURM_ARRAY_TASK_ID"
+echo "Processing role: $POS"
 echo "Running on node: $(hostname)"
-echo "Processing role: mathematician"
 
 # Load necessary modules
 echo "Loading modules..."
@@ -43,8 +60,8 @@ echo "Successfully changed to target directory: $(pwd)"
 
 # Run pipeline command
 echo "Starting pipeline execution..."
-echo "Running model: deepseek-ai/DeepSeek-R1-Distill-Llama-8B with role: mathematician"
-srun python -m pipeline.run_pipeline --model_path deepseek-ai/DeepSeek-R1-Distill-Llama-8B --role "mathematician"
+echo "Running model: deepseek-ai/DeepSeek-R1-Distill-Llama-8B with pos: $POS"
+srun python -m pipeline.run_pipeline --model_path deepseek-ai/DeepSeek-R1-Distill-Llama-8B --role mathematician --pos $POS
 
 # Final status
 if [ $? -eq 0 ]; then

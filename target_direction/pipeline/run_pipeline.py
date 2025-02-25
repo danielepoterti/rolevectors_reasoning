@@ -26,6 +26,7 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description="Parse model path argument.")
     parser.add_argument('--model_path', type=str, required=True, help='Path to the model')
     parser.add_argument('--role', type=str, required=True, help='Role to use for training')
+    parser.add_argument('--pos', type=int, required=True, help='Pos to use for intervention')
     return parser.parse_args()
 
 def load_and_sample_datasets(cfg):
@@ -112,16 +113,10 @@ async def select_and_save_direction(cfg, model_base, target_val, candidate_direc
     # print("Testing directions...")
     # await test_directions(model_base, candidate_directions, artifact_dir=os.path.join(cfg.artifact_path(), cfg.role, "test_direction", str(cfg.coeff)), cfg=cfg)
     
-    metadata_file = os.path.join(cfg.artifact_path(), cfg.role, cfg.test, str(cfg.coeff), "direction_metadata.json")
+    metadata_file = os.path.join(cfg.artifact_path(), cfg.role, cfg.test, str(cfg.coeff), "select_direction", str(cfg.pos), "31", f"results_addition_{cfg.pos}_31.json")
     if os.path.exists(metadata_file):
-        print(f"Using existing metadata: {metadata_file}")
-        with open(metadata_file, "r") as f:
-            metadata = json.load(f)
-        pos = metadata.get("pos")
-        layer = metadata.get("layer")
-        direction_file = os.path.join(cfg.artifact_path(), cfg.role, cfg.test, str(cfg.coeff), "direction.pt")
-        direction = torch.load(direction_file)
-        return pos, layer, direction
+        print(f"Already calculated for {cfg.pos} and 31")  
+        return None, None, None
 
     pos, layer, direction = select_direction(
         model_base,
@@ -228,7 +223,7 @@ def evaluate_loss_for_datasets(cfg, model_base, fwd_pre_hooks, fwd_hooks, interv
     with open(f'{cfg.artifact_path()}/loss_evals/{intervention_label}_loss_eval.json', "w") as f:
         json.dump(loss_evals, f, indent=4)
 
-async def run_pipeline(model_path, role):
+async def run_pipeline(model_path, role, pos):
     """
     Execute the pipeline process for generating and selecting candidate refusal directions for various tests and coefficient values.
     This asynchronous function performs the following major steps:
@@ -257,6 +252,7 @@ async def run_pipeline(model_path, role):
     coeffs = [1.0]
     tests = ["math"]
     
+    cfg.pos = pos
     cfg.role =  role
     
     progress_bar = tqdm(total=len(tests) * len(coeffs), desc="Processing tests")
@@ -291,7 +287,7 @@ def main():
     No return value.
     """
     args = parse_arguments()
-    asyncio.run(run_pipeline(model_path=args.model_path, role=args.role))
+    asyncio.run(run_pipeline(model_path=args.model_path, role=args.role, pos=args.pos))
 
 if __name__ == "__main__":
     main()

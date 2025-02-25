@@ -10,16 +10,17 @@ class Config:
     model_alias: str
     model_path: str
     n_train: int = 128
-    n_test: int = 100
+    n_test: int = 10
     max_new_tokens: int = 512
-    max_new_tokens_reasoning: int = 32768
+    max_new_tokens_reasoning: int = 16384
     model_test: str = "anthropic/claude-3.5-haiku"
     providers_test: List[str] = field(default_factory=lambda: ['Anthropic'])
     temperature_test: float = 0.0
     role = "mathematican"
     test = "math"
     coeff = +1.0
-    batch = 32
+    batch = 1
+    pos = -7
     offline = True
 
     def openrouter_key(self) -> str:

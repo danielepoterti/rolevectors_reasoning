@@ -223,7 +223,7 @@ def get_direction_scores(
     fwd_pre_hooks=[],
     fwd_hooks=[],
     batch_size=8,
-    debug=False 
+    debug=False
 ):
     torch.cuda.empty_cache()
     
@@ -249,16 +249,6 @@ def get_direction_scores(
         batch_instructions = instructions[i:i+batch_size]
         batch_answer_seqs = []
         
-        for instruction in batch_instructions:
-            if instruction["target_score"] == "A":
-                answer_seq = [answer_toks[0][0], [x[0] for x in answer_toks[1:]]]
-            elif instruction["target_score"] == "B":
-                answer_seq = [answer_toks[1][0], [answer_toks[0][0]] + [x[0] for x in answer_toks[2:]]]
-            elif instruction["target_score"] == "C":
-                answer_seq = [answer_toks[2][0], [answer_toks[0][0]] + [answer_toks[1][0]] + [answer_toks[3][0]]]
-            elif instruction["target_score"] == "D":
-                answer_seq = [answer_toks[3][0], [answer_toks[0][0]] + [answer_toks[1][0]] + [answer_toks[2][0]]]
-            batch_answer_seqs.append(answer_seq)
         
         # Generate completions for the current batch only
         batch_completions = model_base.generate_completions(
@@ -269,18 +259,17 @@ def get_direction_scores(
             max_new_tokens=cfg.max_new_tokens_reasoning
         )
         
-        for j, (completion, answer_seq) in enumerate(zip(batch_completions, batch_answer_seqs)):
-            # For now, return perfect scores as placeholder
-            p_score = torch.tensor(1.0, device=model_base.model.device)
-            s_token = torch.tensor(answer_seq[0], device=model_base.model.device)  # Use correct answer as selected token
+        for j, completion in enumerate(batch_completions):
+            p_score = 0.0
+            s_token = "N/A"
 
             performance_scores[i+j] = p_score
 
             results.append({
                 "instruction": batch_instructions[j]["instruction"],
                 "target_answer": batch_instructions[j]["target_score"],
-                "score": float(p_score.cpu()),
-                "selected_answer": token_to_answer[int(s_token.cpu())],
+                "score": float(p_score),
+                "selected_answer": s_token,
                 "completion": completion,
                 "dataset": batch_instructions[j]["dataset"],
             })
@@ -492,9 +481,12 @@ def select_direction(
     steering_performance_scores = torch.zeros((n_pos, n_layer), device=model_base.model.device, dtype=torch.float64)
     ablation_performance_scores = torch.zeros((n_pos, n_layer), device=model_base.model.device, dtype=torch.float64)
 
-    for source_pos in range(-n_pos, 0):
-        for source_layer in tqdm(range(n_layer), desc=f"Computing likelihood addition for source position {source_pos}"):
+    
+    start_layer = n_layer // 2
+    source_pos = cfg.pos  # Use the single position specified in cfg.pos
 
+    for source_layer in tqdm(range(start_layer, n_layer), desc=f"Computing likelihood addition for source position {source_pos}"):
+            torch.cuda.empty_cache()
             performance_vector = candidate_directions[source_pos, source_layer]
             coeff = torch.tensor(cfg.coeff)
 
@@ -515,8 +507,7 @@ def select_direction(
     
     calc_ablation = (cfg.coeff == 1.0)
     if calc_ablation:
-        for source_pos in range(-n_pos, 0):
-            for source_layer in tqdm(range(n_layer), desc=f"Computing likelihood ablation for source position {source_pos}"):
+        for source_layer in tqdm(range(start_layer, n_layer), desc=f"Computing likelihood addition for source position {source_pos}"):
 
                 performance_vector = candidate_directions[source_pos, source_layer]
 
