@@ -133,7 +133,6 @@ cython_debug/
 # Repository specific ignores
 data/examples/*
 target_direction/pipeline/dataset/raw
-target_direction/pipeline/runs
 target_direction/pipeline/dataset/processed/prompts*.json
 
 target_direction/result_tables/runs
